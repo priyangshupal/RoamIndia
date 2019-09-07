@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".agra.attractions.MehtabBagh"
+    tools:showIn="@layout/activity_mehtab_bagh">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/mehtab_bagh_image"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginBottom="5dp" />
+
+            <TextView
+                style="@style/PlaceHeader"
+                android:text="Mehtab Bagh Overview" />
+
+            <TextView
+                style="@style/PlaceMatter"
+                android:text="@string/mehtab_bagh_overview" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/round_alarm_white_48dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/PlaceSubheader"
+                        android:text="Opening Closing Time" />
+
+
+                    <TextView
+                        style="@style/PlaceMatter"
+                        android:text="Sunrise to sunset (Daily)" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/baseline_child_care_white_48dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/PlaceSubheader"
+                        android:text="For Kids" />
+
+                    <TextView
+                        style="@style/PlaceMatter"
+                        android:text="The wide open spaces at Mehtab Bagh are perfect for children to play and run around" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/round_attach_money_white_48dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/PlaceSubheader"
+                        android:text="Entrance Fee" />
+
+                    <TextView
+                        style="@style/PlaceMatter"
+                        android:text="Rs. 10 (Indians), Rs. 100 (foreigners), Rs. 5 (citizens of SAARC and BIMSTEC countries)." />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/round_place_white_48dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/PlaceSubheader"
+                        android:text="Location" />
+
+                    <TextView
+                        style="@style/PlaceMatter"
+                        android:text="Agra, on the opposite side of the Yamuna River across the Taj Mahal" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

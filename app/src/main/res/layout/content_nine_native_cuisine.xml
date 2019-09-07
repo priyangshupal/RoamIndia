@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".gangtok.food.NineNativeCuisine"
+    tools:showIn="@layout/activity_nine_native_cuisine">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/nine_native_cuisine_image"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginBottom="5dp" />
+
+            <TextView
+                style="@style/PlaceHeader"
+                android:text="Nine Native Cuisine Overview" />
+
+            <TextView
+                style="@style/PlaceMatter"
+                android:text="@string/nine_native_cuisine_overview" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/round_restaurant_white_48dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/PlaceSubheader"
+                        android:text="Recommended Dishes" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            style="@style/recommendedDishes"
+                            android:text="Chicken Momos" />
+
+                        <TextView
+                            style="@style/recommendedDishes"
+                            android:text="Green Salad" />
+
+                        <TextView
+                            style="@style/recommendedDishes"
+                            android:text="Hunan Chicken" />
+
+                        <TextView
+                            style="@style/recommendedDishes"
+                            android:text="Thukpa" />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/round_place_white_48dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/PlaceSubheader"
+                        android:text="Location" />
+
+                    <TextView
+                        style="@style/PlaceMatter"
+                        android:text="Gangtok, Sikkim" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

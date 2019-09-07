@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/panel_attraction"
+        android:layout_marginLeft="5dp">
+
+        <ImageView
+            android:id="@+id/imageViewAdapter"
+            android:layout_width="130dp"
+            android:layout_height="120dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:scaleType="centerCrop"
+            tools:src="@mipmap/ic_launcher_round" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewAdapter"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                tools:text="Mehrauli Metrological Park" />
+
+            <TextView
+                android:id="@+id/location_view_adapter"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="15dp"
+                android:layout_weight="1"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp"
+                tools:text="Mehrauli Metrological Park" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!--<ImageView-->
+    <!--android:id="@+id/imageViewAdapter"-->
+    <!--style="@style/ImageViewAdapter"-->
+    <!--tools:src="@mipmap/ic_launcher"/>-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/textViewAdapter"-->
+    <!--style="@style/TextViewAdapter"-->
+    <!--tools:text="App" />-->
+
+</FrameLayout>

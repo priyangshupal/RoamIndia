@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/delhi_attractions_background"
+    android:orientation="vertical"
+    tools:context=".agra.attractions.Agra_attractions">
+
+    <ImageView
+        android:id="@+id/header_attractions_agra"
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+        android:src="@drawable/agra_attractions_header" />
+
+    <ListView
+        android:id="@+id/agraAttractionsList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp" />
+
+</LinearLayout>

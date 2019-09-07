@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.splashscreen">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/roam_india_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/roam_india_logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".port_blair.food.AndamaniFishCurry"
+            android:label="@string/title_activity_andamani_fish_curry"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.food.Annapurna"
+            android:label="@string/title_activity_annapurna"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.food.MandalayRestaurant"
+            android:label="@string/title_activity_mandalay_restaurant"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.shopping.QueenSeaShellCraft"
+            android:label="@string/title_activity_queen_sea_shell_craft"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.shopping.SagarikaEmporium"
+            android:label="@string/title_activity_sagarika_emporium"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.shopping.AberdeenBazaar"
+            android:label="@string/title_activity_aberdeen_bazaar"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.attractions.BirdIsland"
+            android:label="@string/title_activity_bird_island"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.attractions.JapaneseBunker"
+            android:label="@string/title_activity_japanese_bunker"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.attractions.BaratangIsland"
+            android:label="@string/title_activity_baratang_island"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.attractions.SamudrikaMarineMuseum"
+            android:label="@string/title_activity_samudrika_marine_museum"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.attractions.CorbynCove"
+            android:label="@string/title_activity_corbyn_cove"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.attractions.MountHarriet"
+            android:label="@string/title_activity_mount_harriet"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.attractions.CellularJail"
+            android:label="@string/title_activity_cellular_jail"
+            android:parentActivityName=".port_blair.PortBlair"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".port_blair.PortBlair"
+            android:label="@string/title_activity_port_blair"
+            android:parentActivityName=".main.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.HanumanTok"
+            android:label="@string/title_activity_hanuman_tok"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.TashidingMonastery"
+            android:label="@string/title_activity_tashiding_monastery"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.FambongLaWildlifeSanctuary"
+            android:label="@string/title_activity_fambong_la_wildlife_sanctuary"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.KhangchendzongaBiosphereReserve"
+            android:label="@string/title_activity_khangchendzonga_biosphere_reserve"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.MtKatao"
+            android:label="@string/title_activity_mt_katao"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.ShingbaRhododendronSanctuary"
+            android:label="@string/title_activity_shingba_rhododendron_sanctuary"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.DeerPark"
+            android:label="@string/title_activity_deer_park"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.HimalayanZoologicalPark"
+            android:label="@string/title_activity_himalayan_zoological_park"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.SaramsaGarden"
+            android:label="@string/title_activity_saramsa_garden"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.TsukLaKhangMonastery"
+            android:label="@string/title_activity_tsuk_la_khang_monastery"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.FlowerExhibitionCentre"
+            android:label="@string/title_activity_flower_exhibition_centre"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.PhurchachuHotSprings"
+            android:label="@string/title_activity_phurchachu_hot_springs"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.KabiLungchok"
+            android:label="@string/title_activity_kabi_longstok"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.SevenSistersWaterfall"
+            android:label="@string/title_activity_seven_sisters_waterfall"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.TashiViewpoint"
+            android:label="@string/title_activity_tashi_viewpoint"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.BanjhakriFalls"
+            android:label="@string/title_activity_banjhakri_falls"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.SinghikViewpoint"
+            android:label="@string/title_activity_singhik_viewpoint"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.NathuLaPass"
+            android:label="@string/title_activity_nathu_la_pass"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.RumtekMonastery"
+            android:label="@string/title_activity_rumtek_monastery"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.DoDrulChorten"
+            android:label="@string/title_activity_do_drul_chorten"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.attractions.TsomgoLake"
+            android:label="@string/title_activity_tsomgo_lake"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.food.CafeCulture"
+            android:label="@string/title_activity_cafe_culture"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.food.KathiRolls"
+            android:label="@string/title_activity_kathi_rolls"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.food.BakersCafe"
+            android:label="@string/title_activity_bakers_cafe"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.food.NineNativeCuisine"
+            android:label="@string/title_activity_nine_native_cuisine"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.food.CafeLive"
+            android:label="@string/title_activity_cafe_live"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.food.Tangerine"
+            android:label="@string/title_activity_tangerine"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.shopping.LalBazar"
+            android:label="@string/title_activity_lal_bazar"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.shopping.DirectorateofHandicraft"
+            android:label="@string/title_activity_directorateof_handicraft"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.shopping.MGRoad"
+            android:label="@string/title_activity_mgroad"
+            android:parentActivityName=".gangtok.Gangtok"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gangtok.Gangtok"
+            android:label="@string/title_activity_gangtok"
+            android:parentActivityName=".main.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.SindhuGhat"
+            android:label="@string/title_activity_sindhu_ghat"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.ZanskarVirginValley"
+            android:label="@string/title_activity_zanskar_virgin_valley"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.NubraValley"
+            android:label="@string/title_activity_nubra_valley"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.LikirMonastery"
+            android:label="@string/title_activity_likir_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.MagneticHill"
+            android:label="@string/title_activity_magnetic_hill"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.SankarMonastery"
+            android:label="@string/title_activity_sankar_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.SamstanlingMonastery"
+            android:label="@string/title_activity_samstanling_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.NamgyalTsemoMonastery"
+            android:label="@string/title_activity_namgyal_tsemo_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.PhyangMonastery"
+            android:label="@string/title_activity_phyang_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.JamaMasjidLeh"
+            android:label="@string/title_activity_jama_masjid_leh"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.BasgoMonastery"
+            android:label="@string/title_activity_basgo_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.GurudwaraPathharSahib"
+            android:label="@string/title_activity_gurudwara_pathhar_sahib"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.PangongLake"
+            android:label="@string/title_activity_pangong_lake"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.LamayuruMonastery"
+            android:label="@string/title_activity_lamayuru_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.AlchiMonastery"
+            android:label="@string/title_activity_alchi_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.NaropaPhotangNunnery"
+            android:label="@string/title_activity_naropa_photang_nunnery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.HemisMonastery"
+            android:label="@string/title_activity_hemis_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.ThikseyMonastery"
+            android:label="@string/title_activity_thiksey_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.SpitukMonastery"
+            android:label="@string/title_activity_spituk_monastery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.LehPalace"
+            android:label="@string/title_activity_leh_palace"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.attractions.LehShantiStupa"
+            android:label="@string/title_activity_leh_shanti_stupa"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.Khambir"
+            android:label="@string/title_activity_khambir"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.GermanBakery"
+            android:label="@string/title_activity_german_bakery"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.Thukpas"
+            android:label="@string/title_activity_thukpas"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.Momos"
+            android:label="@string/title_activity_momos"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.HimalayaCafe"
+            android:label="@string/title_activity_himalaya_cafe"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.SheldonGardenRestaurant"
+            android:label="@string/title_activity_sheldon_garden_restaurant"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.IlFomo"
+            android:label="@string/title_activity_il_fomo"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.LamayuruRestaurant"
+            android:label="@string/title_activity_lamayuru_restaurant"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.TibetanKitchen"
+            android:label="@string/title_activity_tibetan_kitchen"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.LehViewRestaurant"
+            android:label="@string/title_activity_leh_view_restaurant"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.Gesmo"
+            android:label="@string/title_activity_gesmo"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.Chopsticks"
+            android:label="@string/title_activity_chopsticks"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.food.LaPizzeria"
+            android:label="@string/title_activity_la_pizzeria"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.shopping.TibetanMarket"
+            android:label="@string/title_activity_tibetan_market"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.shopping.LibraryRoadVegetableMarket"
+            android:label="@string/title_activity_library_road_vegetable_market"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.shopping.ZansarArts"
+            android:label="@string/title_activity_zansar_arts"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.shopping.DiskitCurioShop"
+            android:label="@string/title_activity_diskit_curio_shop"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.shopping.TibetanRefugeeMarket"
+            android:label="@string/title_activity_tibetan_refugee_market"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.shopping.HemisMuseumShop"
+            android:label="@string/title_activity_hemis_museum_shop"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.shopping.LehMarket"
+            android:label="@string/title_activity_leh_market"
+            android:parentActivityName=".leh.Leh"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".leh.Leh"
+            android:label="@string/title_activity_leh"
+            android:parentActivityName=".main.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.NehruPlanetarium"
+            android:label="@string/title_activity_nehru_planetarium"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.PandaraRoad"
+            android:label="@string/title_activity_pandara_road"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.JewelleryJaisalmer"
+            android:label="@string/title_activity_jewellery_jaisalmer"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.ShreeKrishnaSaree"
+            android:label="@string/title_activity_shree_krishna_saree"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.Handicrafts"
+            android:label="@string/title_activity_handicrafts"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.Bellissimafort"
+            android:label="@string/title_activity_bellissimafort"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.PansariBazaar"
+            android:label="@string/title_activity_pansari_bazaar"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.SeemaGram"
+            android:label="@string/title_activity_seema_gram"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.ManakChowk"
+            android:label="@string/title_activity_manak_chowk"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.BhatiaBazaar"
+            android:label="@string/title_activity_bhatia_bazaar"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.shopping.SadarBazaar"
+            android:label="@string/title_activity_sadar_bazaar"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.food.Murghesubz"
+            android:label="@string/title_activity_murghesubz"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.food.SafedMaans"
+            android:label="@string/title_activity_safed_maans"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.food.LalMaans"
+            android:label="@string/title_activity_lal_maans"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.food.Kersangri"
+            android:label="@string/title_activity_kersangri"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.food.KadhiPakora"
+            android:label="@string/title_activity_kadhi_pakora"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.food.ChokhiDhaniJaisalmer"
+            android:label="@string/title_activity_chokhi_dhani_jaisalmer"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.food.TrioRestaurant"
+            android:label="@string/title_activity_trio_restaurant"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.MaharajaPalace"
+            android:label="@string/title_activity_maharaja_palace"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.KhabaFort"
+            android:label="@string/title_activity_khaba_fort"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.VyasChhatri"
+            android:label="@string/title_activity_vyas_chhatri"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.BadaBagh"
+            android:label="@string/title_activity_bada_bagh"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.NathMalkiHaveli"
+            android:label="@string/title_activity_nath_malki_haveli"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.JainTemples"
+            android:label="@string/title_activity_jain_temples"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.SalimSinghkiHaveli"
+            android:label="@string/title_activity_salim_singhki_haveli"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.PatwonKiHaveli"
+            android:label="@string/title_activity_patwon_ki_haveli"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.attractions.JaisalmerFort"
+            android:label="@string/title_activity_jaisalmer_fort"
+            android:parentActivityName=".jaisalmer.Jaisalmer"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaisalmer.Jaisalmer"
+            android:label="@string/title_activity_jaisalmer"
+            android:parentActivityName=".main.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".main.ChooseLocation"
+            android:label="@string/title_activity_choose_location"
+            android:parentActivityName=".main.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.MariamuzZamaniPalace"
+            android:label="@string/title_activity_mariamuz_zamani_palace"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.JahangirMahal"
+            android:label="@string/title_activity_jahangir_mahal"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.SurSarovarBirdSanctuary"
+            android:label="@string/title_activity_sur_sarovar_bird_sanctuary"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.AnguriBagh"
+            android:label="@string/title_activity_anguri_bagh"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.PanchMahal"
+            android:label="@string/title_activity_panch_mahal"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.ChinikaRauza"
+            android:label="@string/title_activity_chinika_rauza"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.KhasMahal"
+            android:label="@string/title_activity_khas_mahal"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.MariamTomb"
+            android:label="@string/title_activity_mariam_tomb"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.JamaMasjidAgra"
+            android:label="@string/title_activity_jama_masjid_agra"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.TajMahal"
+            android:label="@string/title_activity_taj_mahal"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.MehtabBagh"
+            android:label="@string/title_activity_mehtab_bagh"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.attractions.AgraFort"
+            android:label="@string/title_activity_agra_fort"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.food.Petha"
+            android:label="@string/title_activity_petha"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.food.ShankaraVegisRestaurant"
+            android:label="@string/title_activity_shankara_vegis_restaurant"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.food.TheMandarin"
+            android:label="@string/title_activity_the_mandarin"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.food.JoneyPlace"
+            android:label="@string/title_activity_joney_place"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.food.Dasaprakash"
+            android:label="@string/title_activity_dasaprakash"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.food.OnlyRestaurant"
+            android:label="@string/title_activity_only_restaurant"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.shopping.CarpetsAndRugs"
+            android:label="@string/title_activity_carpets_and_rugs"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.shopping.Leather"
+            android:label="@string/title_activity_leather"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.shopping.Marble"
+            android:label="@string/title_activity_marble"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".agra.shopping.JKCottage"
+            android:label="@string/title_activity_jkcottage"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.shopping.SadarBazar"
+            android:label="@string/title_activity_sadar_bazar"
+            android:parentActivityName=".agra.Agra"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".agra.Agra"
+            android:parentActivityName=".main.MainActivity" />
+        <activity
+            android:name=".jaipur.attractions.ChokhiDhani"
+            android:label="@string/title_activity_chokhi_dhani"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.DiwaneAm"
+            android:label="@string/title_activity_diwane_am"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.JawaharKalaKendra"
+            android:label="@string/title_activity_jawahar_kala_kendra"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.AlbertHallMuseum"
+            android:label="@string/title_activity_albert_hall_museum"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.CityPalace"
+            android:label="@string/title_activity_city_palace"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.GaneshPolGateway"
+            android:label="@string/title_activity_ganesh_pol_gateway"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.DiwaneKhasHall"
+            android:label="@string/title_activity_diwane_khas_hall"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.SuryaMandir"
+            android:label="@string/title_activity_surya_mandir"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.JalMahal"
+            android:label="@string/title_activity_jal_mahal"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.JantarMantarJaipur"
+            android:label="@string/title_activity_jantar_mantar_jaipur"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.HawaMahal"
+            android:label="@string/title_activity_hawa_mahal"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.NahargarhFort"
+            android:label="@string/title_activity_nahargarh_fort"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.JaigarhFort"
+            android:label="@string/title_activity_jaigarh_fort"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.attractions.AmberFort"
+            android:label="@string/title_activity_amber_fort"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.food.Ghewar"
+            android:label="@string/title_activity_ghewar"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.food.MirchiBada"
+            android:label="@string/title_activity_mirchi_bada"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.food.PyaazKachori"
+            android:label="@string/title_activity_pyaaz_kachori"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.food.OmRevolvingRestaurant"
+            android:label="@string/title_activity_om_revolving_restaurant"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.food.SpiceCourt"
+            android:label="@string/title_activity_spice_court"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.food.LakshmiMishthanBhandar"
+            android:label="@string/title_activity_lakshmi_mishthan_bhandar"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.food.RawatMishthanBhandar"
+            android:label="@string/title_activity_rawat_mishthan_bhandar"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.food.HandiRestaurant"
+            android:label="@string/title_activity_handi_restaurant"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.RajasthanLeatherHandicrafts"
+            android:label="@string/title_activity_rajasthan_leather_handicrafts"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.NeelamHandicraftShop"
+            android:label="@string/title_activity_neelam_handicraft_shop"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.GovindRajasthaliCottageIndustries"
+            android:label="@string/title_activity_govind_rajasthali_cottage_industries"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.Jewellery"
+            android:label="@string/title_activity_jewellery"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.HandicraftHaveli"
+            android:label="@string/title_activity_handicraft_haveli"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.TripoliaBazaar"
+            android:label="@string/title_activity_tripolia_bazaar"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.MirzaIsmialRoad"
+            android:label="@string/title_activity_mirza_ismial_road"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.NehruBazaar"
+            android:label="@string/title_activity_nehru_bazaar"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.BapuBazar"
+            android:label="@string/title_activity_bapu_bazar"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.shopping.JohariBazaar"
+            android:label="@string/title_activity_johari_bazaar"
+            android:parentActivityName=".jaipur.Jaipur"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".jaipur.Jaipur"
+            android:parentActivityName=".main.MainActivity" />
+        <activity
+            android:name=".bangalore.attraction.NationalGalleryofModernArt"
+            android:label="@string/title_activity_national_galleryof_modern_art"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.Savandurga"
+            android:label="@string/title_activity_savandurga"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.VisvesvarayaIndustrialTechnologicalMuseum"
+            android:label="@string/title_activity_visvesvaraya_industrial_technological_museum"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.Chikmagalur"
+            android:label="@string/title_activity_chikmagalur"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.GaviGangadhareshwaraTemple"
+            android:label="@string/title_activity_gavi_gangadhareshwara_temple"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.SreeSiddagangaMutt"
+            android:label="@string/title_activity_sree_siddaganga_mutt"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.FunWorld"
+            android:label="@string/title_activity_fun_world"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.BullTemple"
+            android:label="@string/title_activity_bull_temple"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.DoddaGaneshaTemple"
+            android:label="@string/title_activity_dodda_ganesha_temple"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.LalBaghBotanicalGarden"
+            android:label="@string/title_activity_lal_bagh_botanical_garden"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.LumbiniGardens"
+            android:label="@string/title_activity_lumbini_gardens"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.InnovativeFilmCity"
+            android:label="@string/title_activity_innovative_film_city"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.Wonderla"
+            android:label="@string/title_activity_wonderla"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.BangalorePalace"
+            android:label="@string/title_activity_bangalore_palace"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.BannerghattaNationalPark"
+            android:label="@string/title_activity_bannerghatta_national_park"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.LalBagh"
+            android:label="@string/title_activity_lal_bagh"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.VidhanSoudha"
+            android:label="@string/title_activity_vidhan_soudha"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.CubbonPark"
+            android:label="@string/title_activity_cubbon_park"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.attraction.TipuSultanPalace"
+            android:label="@string/title_activity_tipu_sultan_palace"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.food.PortlandSteakHouseCafe"
+            android:label="@string/title_activity_portland_steak_house_cafe"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.food.DumPukhtJollyNabobRestaurant"
+            android:label="@string/title_activity_dum_pukht_jolly_nabob_restaurant"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.food.IstanbulDonerTurkishGrill"
+            android:label="@string/title_activity_istanbul_doner_turkish_grill"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.food.OkoRestaurant"
+            android:label="@string/title_activity_oko_restaurant"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.food.CaperberryRestaurant"
+            android:label="@string/title_activity_caperberry_restaurant"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.food.GrasshopperRestaurant"
+            android:label="@string/title_activity_grasshopper_restaurant"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.shopping.TheForumMall"
+            android:label="@string/title_activity_the_forum_mall"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.shopping.PhoenixMall"
+            android:label="@string/title_activity_phoenix_mall"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.shopping.BannerghattaRoad"
+            android:label="@string/title_activity_bannerghatta_road"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.shopping.BrigadeRoad"
+            android:label="@string/title_activity_brigade_road"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.shopping.OrionMall"
+            android:label="@string/title_activity_orion_mall"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.shopping.CommercialStreet"
+            android:label="@string/title_activity_commercial_street"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.shopping.TheBombayStore"
+            android:label="@string/title_activity_the_bombay_store"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.shopping.UBcity"
+            android:label="@string/title_activity_ubcity"
+            android:parentActivityName=".bangalore.Bangalore"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".bangalore.Bangalore"
+            android:parentActivityName=".main.MainActivity" />
+        <activity
+            android:name=".delhi.attractions.ConnaughtPlaceAttractions"
+            android:label="@string/title_activity_connaught_place_attractions"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.KingdomofDreams"
+            android:label="@string/title_activity_kingdomof_dreams"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.AkshardhamTemple"
+            android:label="@string/title_activity_akshardham_temple"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.NehruPark"
+            android:label="@string/title_activity_nehru_park"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.LotusTemple"
+            android:label="@string/title_activity_lotus_temple"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.RashtrapatiBhavan"
+            android:label="@string/title_activity_rashtrapati_bhavan"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.RangMahal"
+            android:label="@string/title_activity_rang_mahal"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.VishwaShantiStupa"
+            android:label="@string/title_activity_vishwa_shanti_stupa"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.JantarMantar"
+            android:label="@string/title_activity_jantar_mantar"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.RajGhat"
+            android:label="@string/title_activity_raj_ghat"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.Shantivan"
+            android:label="@string/title_activity_shantivan"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.ParliamentHouse"
+            android:label="@string/title_activity_parliament_house"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.KhairulManzilMasjid"
+            android:label="@string/title_activity_khairul_manzil_masjid"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.JamaliKamaliMosque"
+            android:label="@string/title_activity_jamali_kamali_mosque"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.TughlaqabadFort"
+            android:label="@string/title_activity_tughlaqabad_fort"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.KhirkiMasjid"
+            android:label="@string/title_activity_khirki_masjid"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.PuranaQila"
+            android:label="@string/title_activity_purana_qila"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.HauzKhasVillageAttractions"
+            android:label="@string/title_activity_hauz_khas_village_attractions"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.QilaRaiPithora"
+            android:label="@string/title_activity_qila_rai_pithora"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.AjmeriGate"
+            android:label="@string/title_activity_ajmeri_gate"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.TombofImamZamin"
+            android:label="@string/title_activity_tombof_imam_zamin"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.DiwaniKhas"
+            android:label="@string/title_activity_diwani_khas"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.TombofKhan"
+            android:label="@string/title_activity_tombof_khan"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.AlaiMinar"
+            android:label="@string/title_activity_alai_minar"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.MehrauliArchaeologicalPark"
+            android:label="@string/title_activity_mehrauli_archaeological_park"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.JamaMasjid"
+            android:label="@string/title_activity_jama_masjid"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.AlaiDarwaza"
+            android:label="@string/title_activity_alai_darwaza"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.IsaKhan"
+            android:label="@string/title_activity_isa_khan"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.LalQila"
+            android:label="@string/title_activity_lal_qila"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.Safdarjung"
+            android:label="@string/title_activity_safdarjung"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.LodiGarden"
+            android:label="@string/title_activity_lodi_garden"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.IndiaGate"
+            android:label="@string/title_activity_india_gate"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.HumayunTomb"
+            android:label="@string/title_activity_humayun_tomb"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.CoronationDurbar"
+            android:label="@string/title_activity_coronation_durbar"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.Canopy"
+            android:label="@string/title_activity_canopy"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.QutubMinar"
+            android:label="@string/title_activity_qutub_minar"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.Kulfi"
+            android:label="@string/title_activity_kulfi"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.KhanChacha"
+            android:label="@string/title_activity_khan_chacha"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.AllAmericanDinner"
+            android:label="@string/title_activity_all_american_dinner"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.Keventer"
+            android:label="@string/title_activity_keventer"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.Wenger"
+            android:label="@string/title_activity_wenger"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.Gunpowder"
+            android:label="@string/title_activity_gunpowder"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.attractions.SarvanaBhavan"
+            android:label="@string/title_activity_sarvana_bhavan"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.ChachaKeCholleyBhature"
+            android:label="@string/title_activity_chacha_ke_cholley_bhature"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.GaliParantheWali"
+            android:label="@string/title_activity_gali_paranthe_wali"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.Chaat"
+            android:label="@string/title_activity_chaat"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.Fio"
+            android:label="@string/title_activity_fio"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.DilliHaatFood"
+            android:label="@string/title_activity_dilli_haat_food"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.HauzKhazVillageFood"
+            android:label="@string/title_activity_hauz_khaz_village_food"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.Paharganj"
+            android:label="@string/title_activity_paharganj"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.food.TheBigChill"
+            android:label="@string/title_activity_the_big_chill"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.MehrChandMarket"
+            android:label="@string/title_activity_mehr_chand_market"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.HauzKhasVillage"
+            android:label="@string/title_activity_hauz_khas_village"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.Karolbagh"
+            android:label="@string/title_activity_karolbagh"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.GreatIndiaPlace"
+            android:label="@string/title_activity_great_india_place"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.GreaterKailash"
+            android:label="@string/title_activity_greater_kailash"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.INAMarket"
+            android:label="@string/title_activity_inamarket"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.DLFPromenadeMall"
+            android:label="@string/title_activity_dlfpromenade_mall"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.MeenaBazaar"
+            android:label="@string/title_activity_meena_bazaar"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.CentralCottageIndustriesEmporium"
+            android:label="@string/title_activity_central_cottage_industries_emporium"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.MetroWalkMall"
+            android:label="@string/title_activity_metro_walk_mall"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.Janpath"
+            android:label="@string/title_activity_janpath"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.ConnaughtPlace"
+            android:label="@string/title_activity_connaught_place"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.KhanMarket"
+            android:label="@string/title_activity_khan_market"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.SelectCityWalk"
+            android:label="@string/title_activity_select_city_walk"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.shopping.Delhi_Haat"
+            android:label="@string/title_activity_shopping1"
+            android:parentActivityName=".delhi.Delhi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".delhi.Delhi"
+            android:label="@string/title_activity_delhi"
+            android:parentActivityName=".main.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".main.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".main.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

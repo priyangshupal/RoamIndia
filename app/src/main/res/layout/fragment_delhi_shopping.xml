@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shopping_background"
+    android:orientation="vertical"
+    tools:context=".delhi.shopping.Delhi_shopping">
+
+    <ImageView
+        android:id="@+id/header_shopping_delhi"
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+        android:src="@drawable/shopping_header" />
+
+    <ListView
+        android:id="@+id/delhiShoppingList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:numColumns="2" />
+
+</LinearLayout>

@@ -1,0 +1,1338 @@
+<resources>
+    <string name="app_name">Roam India</string>
+    <string name="title_activity_delhi">Delhi</string>
+    <string name="action_choose_location">Choose Location</string>
+
+    <!--Delhi Shopping-->
+
+    <!--SHOPPING-->
+    <!--Dilli Haat-->
+    <string name="title_activity_shopping1">Dilli Haat</string>
+    <string name="delhi_haat_overview">Dilli Haat is an open-air food and crafts arcade where you can find arts, crafts and cuisine from across India. Stalls in Dilli Haat are permanent though the vendors who hold stalls keep changing every two weeks.
+
+Products that can be found in Dilli Haat include wood carvings, mirrowork fabric, brassware, leather goods, beaded jewellery, silk and cotton fabric among other items. Also available in Dilli Haat are organic food products such as organic jams and pickles.
+
+Apart from shopping, Dilli Haat is a great place to sample delicious cuisine from all across India, such as momo’s from Nagaland, dosas from Tamil Nadu , gaate ki sabzi from Rajasthan and vada pao from Maharashtra among other delicacies.
+    </string>
+
+    <!--Select City Walk-->
+    <string name="title_activity_select_city_walk">Select City Walk Mall</string>
+    <string name="select_city_walk_overview">Select City Walk is a large mall located in Saket. Spread over an area of 6 acres the mall houses retail space, a multi-cuisine food-court, fine dining restaurants, a multiplex, services apartments and offices. Select City Walk is home to over 500 major Indian and International brands such as Calvin and Klein, Charles and Keith, Aldo, Tommy Hilfiger, United Colors of Benneton, Mango, Pantaloons and Pepe Jeans among others.
+
+Select City Walk also has an open air arcade called Sanskriti which hosts exhibitions, performances and art fairs. Apart from that the plaza has a large open area with trees, fountains and ample seating space.
+    </string>
+
+    <!--Khan Market-->
+    <string name="title_activity_khan_market">Khan Market</string>
+    <string name="khanMarketOverview">One of Delhi’s most expensive and posh markets, Khan Market is a great place to shop, as long as you’re willing to shell out big bucks. The market is usually frequented by diplomats and expats and is popular for its tailoring shops, where it is possible to have a bespoke suit stitched in less than a week.
+
+Khan Market is especially famous for its many interesting bookstores, grocery stores where you can buy imported groceries and stores where you can get colourful handmade paper items like notebooks and bookmarks.
+
+Apart from shopping Khan Market also has many nice café’s, bars and restaurants which are great places to enjoy a relaxed meal and drinks in a comfortable ambience.
+    </string>
+
+    <!--Connaught Place-->
+    <string name="title_activity_connaught_place">ConnaughtPlace</string>
+    <string name="connaught_place_overview">
+The heart of New Delhi, Connaught Place is a great place for shopping and makes for a perfect Day out. The market is home to many Indian and International brands like United Colors of Benetton, Levis, Balujas, Heels, Reebok, Peter England and Wills Lifestyle among others.
+
+Apart from branded retail chains, Connaught Place also has street vendors scattered around the market who sell costume jewellery, trinkets, sunglasses and other knick knacks.
+
+Other than Shopping, Connaught Place is also a great place to catch a quick bit, or even a relaxed meal and is home to restaurants and eating joints like Wengers, United Coffee House, Dinkin’ Donuts, Dominos Pizza, McDonald’s and Starbucks Coffee among others.
+    </string>
+
+    <!--Janpath-->
+    <string name="title_activity_janpath">Janpath</string>
+    <string name="janpath_overview">Janpath remains one of Delhi’s most famous markets, among both Indians and foreigners. The market is made up of a line of stores selling everything from souvenirs, brassware, carved woodwork, postcards, footwear, ethnic wear, colorful clothes, scarves, Pashmina shawls and mirror work wall carpets among a lot of other interesting knick knacks.
+
+An interesting Tibetan Market can also be found near the Imperial Hotel on Janpath where you can pick a range of Tibetan and Himalayan artifacts like wall hangings, Tibetan masks, beads and quirky bits of jewellery.
+
+One handy tip while shopping in Janapth is to bargain like a pro if you’re looking for a great deal. If all the shopping has made you hungry then there are many places around Janpath where you can grab a quick bite, like De Paul’s and their famous cold coffee and kathi rolls.
+    </string>
+
+    <!--Weekend Book Market-->
+    <string name="title_activity_weekend_book_market">Weekend Book Market</string>
+    <string name="weekend_book_market_overview">Book lovers rejoice, the weekend book market in Daryaganj is a bookworms dream come true! Every Sunday booksellers line up on the pavements selling second hand books at throw away prices. All the books are lined up on the pavement so be prepared to patiently dig into the pile of books and who knows you just might be rewarded with a gem you were in search of for a long time. Finding parking may be a slight challenge in Daryaganj, so it is advised you take the Delhi metro here to avoid any parking hassles.
+    </string>
+
+    <!--Metro Walk Mall-->
+    <string name="title_activity_metro_walk_mall">Metro Walk Mall</string>
+    <string name="metro_walk_mall_overview">Located in Rohini, the Metro Walk Mall is a shopping mall and amusement park rolled into one. Spread over an area of 220,000 sq ft, the mall is home to many Indian and International brands of apparel and accessories such as Nike, Reebok and Pantaloons apart from many fine dining restaurants and a multi cuisine food court. The Metro Walk Mall is also home to a theme park called Adventure Island which has over 26 rides and is great place to spend a day with one’s family.
+    </string>
+    <string name="title_activity_central_cottage_industries_emporium">
+        Central Cottage Industries Emporium
+    </string>
+    <string name="central_cottage_industries_emporium_overview">A treasure trove of traditional Indian handicrafts, brassware, carved woodwork, silverware, pottery and fabrics, the Central Cottage Industries Emporium is a must visit if you’re looking for authentic Indian handloom and handicrafts.
+
+Apart from just selling handicrafts the Central Cottage Industries Emporium also promotes handicrafts and handlooms by taking up market research, ensuring the high standards of products they sell, innovative promotions and interior designing services.
+    </string>
+
+    <!--Meena Bazaar-->
+    <string name="title_activity_meena_bazaar">Meena Bazaar</string>
+    <string name="meena_bazaar_overview">Also known as the Chatta Chowk Bazaar, the Meena Bazaar is one of the most popular and oldest markets in Delhi. In the time of Shah Jahan the idea of a covered market was an alien concept and the Meena Bazaar emerged as the first covered market of its time, the roof of which was constructed with exquisite inlay work known as “ladau”. In the olden times the Meena Bazaar would sell elegant rugs and carpets, quilts, pashmina shawls, silks and woolens among others. The market also stocked gold and silver, exotic perfumes and spices like saffron.
+
+Considering its historic significance, today the Meena Bazaar is maintained by the Archeological Survey of India (ASI) and sells items like souvenirs, eatables and drinks.
+    </string>
+
+    <!--DLF Promenade Mall-->
+    <string name="title_activity_dlfpromenade_mall">DLF Promenade Mall</string>
+    <string name="dlf_promenade_overview">DLF Promenade is a popular shopping mall in Delhi and is located on Nelson Mandela Marg in Vasant Kunj. Spread over an area of 4.6 lac sq ft, the mall can accommodate over 1100 people and has a multi-level car parking, a multiplex with seven screens, a multi-cuisine food court and several fine dining restaurants.
+
+Apart from patrons form Delhi, the mall receives visitors from nearby cities like Chandigarh, Ludhiana, and Jaipur who come here especially to shop.
+
+The mall has been organised in such a manner that all fashion brands are on the ground and first floor), Food and Beverage outlets, spas, salons and the cinema hall make up the 2nd floor.
+
+DLF Promenade also has an interesting mix of sit down restaurants, such as Nando’s The Big Chill, TGIF, Mamagoto, Smoke House Delhi and Mocha among others.
+    </string>
+
+    <!--INA MArket-->
+    <string name="title_activity_inamarket">INA Market</string>
+    <string name="ina_market_overview">The Indian National Army Market, more popularly as INA Market is a very well-known food market in Delhi. The market is particularly famous for fresh fruits, vegetables, seafood, chicken, meat and spices. Shops in the market sell imported food items and some wines and liquors.
+    </string>
+
+    <!--Greater Kailash-->
+    <string name="title_activity_greater_kailash">Greater Kailash</string>
+    <string name="greater_kailash_overview">GK M Block Market, more popularly known as GK is one of the most popular markets in Delhi. Known as one of Delhi’s most posh markets, Greater Kailash Market is a hub for the fashion conscious as the market is home to many international brands such as Nike, Esprit, Reebok, Lacoste, Adidas and Next among others. There are also a host of local brands which sell exquisite Indian wear.
+
+The market is dotted with several smaller vendors selling everything from trinkets, footwear and other small knick knacks.
+
+All the shopping making you hungry? Worry not, for GK M Block market has many options which will definitely appeal to your taste buds. Among some of the popular restaurants in the market are Moti Mahal Deluxe, KFC, Pizza Hut, Mc Donalds and Coffee Bean and Tea Leaf among others. Apart from that there are many small carts selling momos, gol gappas, chaat and tikkis.
+    </string>
+
+    <!--Great India Place-->
+    <string name="title_activity_great_india_place">Great India Place</string>
+    <string name="great_india_place_overview">Great India Place is one of India’s largest malls and is located in Noida. The mall is divided into different sections with grocery shopping, women and men’s apparel in different sections. The mall is home to many different brands such as Marks and Spencer, Da Milano. Pantaloons Nike, Adidas and Reebok among others. Apart from that the mall also has a 6 screen cinema hall and a food and entertainment zone on the top most floor.
+    </string>
+
+    <!--Karol Bagh-->
+    <string name="title_activity_karolbagh">Karol bagh</string>
+    <string name="karol_bagh_overview">Karol Bagh Market is one of the most popular markets in Central Delhi. The market is known for its shopping streets like the Ajmal Khan Road and the Gaffar Market (very popular for its electronic goods).
+
+The Karol Bagh market is visited by many people who come here to buy clothes, home accessories, home furnishing, food stuff and jewellery.
+
+Apart from local brands, Karol Bagh also has many popular brands such as Nike, Reebok, Puma and Lacoste and also many international fast food chains such as TGIF. There are also many small stalls in Karol Bagh Market where you can enjoy street food like Chaat, aloo chaat, papri chaat and aloo tikki. Roshan di Kulfi is a great place to enjoy some great Indian fast food like chaat, tikki and gol gappas.
+    </string>
+
+    <!--Hauz Khas Village-->
+    <string name="title_activity_hauz_khas_village">Hauz Khas Village</string>
+    <string name="hauz_khas_overview">Favoured by Delhi’s elite and expats, Hauz Khas Village is a great place to shop only if you’re willing to loosen those purse strings a bit. Popular for its designer boutiqes, bookstores and quaint little shops selling quirky little antiques, Hauz Khas Village is a great place to browse through stores and pick up interesting knick knacks. Some of the popular stores in Hauz Khas are The Grey Garden Store, House of Blondie, Ahana Organic, Indian Popular Art, People Tree and Yodakin among others. Tired of shopping? Hauz Khas Village is famous for its many popular sit-down restaurants where you can enjoy a relaxed meal and a drink in a comfortable ambience. A few of Hauz Khas Village’s popular restaurants are Elma’s Tea Room, Gunpowder, The Grey Garden, Yeti and Amici among others.
+    </string>
+
+    <!--Mehr Chand Market-->
+    <string name="title_activity_mehr_chand_market">Mehr Chand Market</string>
+    <string name="mehr_chand_market_overview">Mehr Chand Market is one of the hippest markets in Delhi and is touted at becoming the next Khan Market of the city. More popular as a boutique market, Mehr Chand Market is home to stores which stock Indo-Western fashion. Some popular boutiques in Mehr Chand Market are O-Layla and House Oh Masaba. The market is also a great place to pick up tasteful home furnishing. Organic food lovers can drop in at Nourish Organic to pick up some packaged organic snacks.
+
+When in Mehr Chand Market do make it a point to try out some authentic French cuisine at Chez Nini and Middle Eastern delights at the sweet shop Kunafa.
+    </string>
+
+
+    <!--FOOD-->
+    <!--The Big Chill-->
+    <string name="title_activity_the_big_chill">The Big Chill</string>
+    <string name="big_chill_overview">The Big Chill is one of Delhi’s most popular restaurants for Italian and Continental cuisine and is always packed with customers, especially on weekends.
+
+Some of the popular dishes served at the Big Chill are pastas in a variety of sauces, thin crust pizzas, salads, meal platters and a wide range of desserts, especially cheesecake. The interiors of the restaurant are done up with Hollywood film posters and has a retro touch to it.
+    </string>
+
+    <!--Paharganj-->
+    <string name="title_activity_paharganj">Paharganj</string>
+    <string name="paharganj_overview">Paharganj is a locality in Delhi near the New Delhi Railway Station synonymous with budget hotels and guest houses which cater largely to foreign backpackers. The locality has a string of restaurant, cafes and bars which serve a range of international cuisine.
+
+Some popular restaurants in Paharganj are Metropolis Bar and Restaurant, situated on the rooftop of the Metropolis Tourist Home this is one of the best places to have a meal and enjoy a few drinks in Paharganj. Other popular restaurants in Paharganj are Diamond Café which serves Indian and Israeli food and also Sam’s Café which is popular for its rooftop garden and western breakfast.
+    </string>
+
+    <!--Hauz Khas Village Food-->
+    <string name="title_activity_hauz_khaz_village_food">Hauz Khaz Village</string>
+    <string name="hauz_khas_village_overview">One of Delhi’s hippest neighbourhoods, Hauz Khas Village or HKV as it is popularly known is one of the best places to eat in Delhi. With a string of restaurants serving a wide range of international cusine, HKV will spoil you for choice. The village is home to some of Delhi’s best fine dining restaurants, café’, bars and lounges. Some of Hauz Khas Village’s popular restaurants are Yeti, Out of the Box, Dzoukou, Amici, Zo, Smoke House Deli, Mia Bella and the Golconda Bowl among others.
+    </string>
+
+    <!--Dilli Haat Food-->
+    <string name="title_activity_dilli_haat_food">Dilli Haat</string>
+    <string name="dilli_haat_food_overview">Apart from the numerous shopping options it offers, Dilli Haat is one of the most popular culinary destinations in Delhi. Offering authentic cuisine from across the country, Dilli Haat has numerous stalls representing different states across India serving delicacies from that region.
+
+Some of the popular food stalls at Dilli Haat are the Nagaland stall for their momos and fruit beer, the Maharshte stall for its vada-pao and bhel puri, the Rajastan stall for its thali, gajar ka halwa and kullar chai,the West Bengal stall for its traditional Bengali thali, the Kerala stall for its appams and stew and the Kashmir stall for its mutton curry.
+    </string>
+
+    <!--Fio-->
+    <string name="title_activity_fio">Fio</string>
+    <string name="fio_overview">Located in the Garden of Five Senses, Fio serves some delicious Italian and North Indian dishes. Enjoy a relaxed evening enjoying the peaceful ambience of Fio with a glass of wine and some delicious food. With five indoor and outdoor spaces, Fio is a must visit when in Delhi.
+    </string>
+
+    <!--Chaat-->
+    <string name="title_activity_chaat">Chaat</string>
+    <string name="chaat_overview">Delhi has always remained famous for its chaat and is one of the must haves if you’re in the city. Chaat is an umbrella term of sorts and includes delicacies such as gol gappas, aloo tikki, papri chaat and dahi bhallas.
+
+There are numerous street food stalls dotting the city where you can taste this amazing burst of flavours. Chaat in Old Delhi is particularly famous and there are many small places around the old city where you can find some delicious chat. Don’t think so much about the hygiene aspect when eating chaat, but if you’re overtly particularly about eating at a hygienic place you can always head to Indian fast food joints such as Haldirams, Nathus or Bikanerwala.
+    </string>
+
+    <!--Gali Paranthe Wali-->
+    <string name="title_activity_gali_paranthe_wali">Gali Paranthe Wali</string>
+    <string name="gali_paranthe_overview">One of the most popular culinary destinations in Delhi, the Gali Paranthe Wali is famous for its inexhaustible range of stuffed paranthas. A lane dedicated exclusively to paranthas, the first shop in this lane opened in 1872 and since then there has been no looking back.
+
+Gali Paranthe Wali is famous for its pure vegetarian paranthas with unique stuffing’s like dry fruits, rabri, bananas and khoya. Apart from these interesting fillings they have the popular favourites such as aloo and gobhi paranthas as well. The paranthas are served along with sweet chutney, mint chutney, mixed vegetables and a potato curry and is best had with a cold glass of lassi.
+    </string>
+
+    <!--Chacha Ke Chole Bhature-->
+    <string name="title_activity_chacha_ke_cholley_bhature">Chacha Ke Cholley Bhature</string>
+    <string name="chacha_ke_chole_overview">Chaha Ke Cholley Bhature is one of the most popular names for street food in Delhi. Located in Delhi;s University’s North Camus Chacha ke Cholley Bhaturey is counted among the best places to have cholley bhaturey in Delhi. Served along with pickle and green chutney, Chacha Ke Cholley Bhature is truly a treat for your taste buds.
+
+There are two kinds of bhaturas available at Chachas, one being the plain bhatura and the other being the aloo and paneer stuffed one. This humble little food stall is thronged with students and on most days the food is over by 1pm. Wash down Chach’s delicious cholley bhaturey with some lemon soda from the stall next door.
+    </string>
+
+    <!--Sarvana bhavan-->
+    <string name="title_activity_sarvana_bhavan">Sarvana Bhavan</string>
+    <string name="sarvana_bhavan_overview">Sarvana Bhawan is by far the best South Indian food chain in Delhi. Famous not only in Delhi, but around the world, Sarvana Bhavan dishes up some mouth-watering South Indian dishes.
+
+Spotlessly clean, Sarvana Bhavan serves some of the best Doasa, Idlis, vadas, filter coffee and South-Indian thalis in Delhi. Immensely popular, Sarvana Bhavan is always packed and it is advised you reach early or be prepared to queue outside the restaurant to get a table.
+    </string>
+
+    <!--Gunpowder-->
+    <string name="title_activity_gunpowder">Gunpowder</string>
+    <string name="gunpowder_overview">As the name suggests, Gunpowder is a South Indian restaurant known for its delicious Chettinad cuisine. Perched on the third floor, Gunpowder provides stunning views of the Hauz Khas Tank, making you forget that you’re in Delhi.
+
+A few recommended items on the Gunpowder menu are the mackerel fry, buff fry, appams and toddy shop meen curry.
+    </string>
+
+    <!--Wenger's-->
+    <string name="title_activity_wenger">Wenger\'s</string>
+    <string name="wenger_overview">One of Delhi’s oldest establishments, Wenger’s is one among the best confectionary shops in Delhi. Set up in 1926 Wenger’s is your go to place if you wish to enjoy some bakery delights.
+
+Head to Wenger’s to sample their delicious range of cakes, pastries, tarts, sandwiches, patties, shammi kebabs and cookies.
+    </string>
+
+    <string name="title_activity_keventer">Keventer\'s</string>
+    <string name="keventer_overview">A tiny, hole in the wall establishment, Keventers is one of Delhi’s oldest culinary establishments and is popular for its large chilled bottles of flavoured milkshakes. A no-fuss, unpretentious place, Keventers has been long popular with Delhites who line up here day after day to get a fix of their favourite milkshakes.
+
+Keventer’s milkshakes are available in vanilla, pineapple, strawberry, chocolate, coffee and mango flavours and is made using full cream milk. Apart from milkshakes, Keventer’s also serves some quick bites such as paneer kulcha and bread pakoras.
+    </string>
+
+    <!--Paranthas-->
+    <string name="title_activity_paranthas">Paranthas</string>
+    <string name="paranthas_overview">The parantha remains a popular Indian favourite flatbread thanks to its delicious taste and how innovative it is. A parantha can be had for breakfast, lunch dinner and even as a late night between snack.
+
+Paranthas are primarily vegetarian and can be stuffed with potatoes, green peas, cauliflower, radish, paneer and even leftover veggies and lentils. These delicious crisp paranthas are best enjoyed with butter, pickles and yogurt on the side.
+
+Paranthas remain a popular street food and there are numerous small stalls across Delhi where you’ll be able to find some delicious paranthas.
+
+Where do I try this Dish: Available in small food stalls all around Delhi, paranthas are easy to find. Though the paranthas from Pundit Gaya Prasad, Shiv Charan Paranthe Wala in Old Delhi and the Moolchand Paranthewala are particularly famous.
+
+
+    </string>
+    <string name="title_activity_all_american_dinner">All American Dinner</string>
+    <string name="all_american_overview">An American style diner, the All American Diner is famous for its American cuisine, especially its al day western breakfasts. Located in the India Habitat Centre, the All American Diner has indoor as well as al fresco seating and is a great place to head to on a sunny winter afternoon or a cool summer evening.
+
+The All American Diner provides visitors an authentic American ambience reminiscent of the 1950’s. Head to the diner to enjoy some great all day breakfast, waffles, pancakes, burgers, milkshakes and coffees.
+
+        <!--Khan Chacha-->
+    </string>
+    <string name="title_activity_khan_chacha">Khan Chacha</string>
+    <string name="khan_chacha_overview">One of the most popular kebab joints in Delhi, Khan Chacha is famous for their kebab rolls and rightly so. Apart from their kebabs, Khan Chacha is also famous for its mouthwatering chicken tikka and paneer tikka. In the winter do make it a point to try out their fish tikka, which is truly divine. Khan Chacha is so famous that it is frequently visited by celebrities.
+    </string>
+
+    <!--Kulfi-->
+    <string name="title_activity_kulfi">Kulfi</string>
+    <string name="kulfi_overview">The Indian version of ice cream, kulfi is a frozen dessert very popular not only in Delhi, but across the country. Delicious and creamy, kulfi comes in a variety of flavours and some of the popular flavours are saffron, cardamom, mango and rose. Though these days there are many more innovative flavours available such as apple, orange, chiku, jamun and pomegranate flavoured kulfi.
+
+Apart from the simple version of kulfi which is available on a stick there is also the falooda kulfi which is essentially kulfi served with sweet noodles made out of arrowroot, spiked with saffron, rose and other flavouring.
+
+    </string>
+
+
+    <!--Delhi Attractions-->
+    <!--Qutub Minar-->
+    <string name="title_activity_qutub_minar">Qutub Minar</string>
+    <string name="qutub_minar_overview">The Qutub Minar is a towering 73 meter high tower built by Qutub-ud-Din Aibak in 1193. The tower was built to celebrate Muslim dominance in Delhi after the defeat of Delhi’s last Hindu ruler. This tower is the highest tower in India, complete with five storeys and projecting balconies. The first three storeys of the Qutub Minar are made of red sandstone and the last two are made of marble and sandstone.
+
+The construction of the Qutub Minar was started by Qitub-ud-Din Aibak, but he only constructed the basement. The construction of the tower was later taken over by his successor Iltutmish who constructed three more stories. The last two storeys were completed Firoz Shah Tuglak. The different architectural styles from the time of Aibak to Tuglak are clearly visible in the Qutub Minar.
+
+Apart from the tower, the Qutub Minar complex comprises of the Quwwat-us-Islam Mosque (the first mosque to be built in India), a 7 metre high iron pillar, the tomb of Iltutmish, Ala’i-Darwaza and the Ala’I Minar.
+
+</string>
+
+    <!--The Canopy-->
+    <string name="title_activity_canopy">The Canopy</string>
+    <string name="the_canopy_overview">Standing behind the India Gate, the Canopy is a red sandstone structure constructed by British architect Edwin Lutyens. The construction of this structure was inspired by a 6th century Mahabalipuram Pavilion in South India. Until Independence in 1947 the pavilion contained the statue of King George the Fifth, but that was later removed and can now be found in the Coronation Park in another part of Delhi.
+    </string>
+
+    <!--Coronation Durbar Park-->
+    <string name="title_activity_coronation_durbar">Coronation Durbar Park</string>
+    <string name="coronation_overview">The Coronation Durbar Park, also known as the Coronation Memorial was the venue of the Delhi Durbar in 1877 after Queen Victoria was declared the Empress of India. In 1903 the park was later used to celebrate King Edward’s assumption of the throne in 1903.
+
+It was at the same place that the coronation of King George the fifth as Emperor of India took place as well in December 1911. The park is also home to the tallest statue of King George the Fifth which used to be under the Canopy near India Gate and was later removed from there in the 1960’s and placed here.
+
+The park which was initially in a state of neglect has been restored by the Indian National Trust for Art and Cultural Heritage and the Government of Delhi.
+    </string>
+
+    <!--Humayun's Tomb-->
+    <string name="title_activity_humayun_tomb">Humayun\'s Tomb</string>
+    <string name="humayun_overview">One of the most magnificent tombs built in Delhi during the Mughal rule, the Humayun’s Tomb is an excellent example of Persian architecture. The Humayun’s Tomb was commissioned in 1526, nine years after the death of Humayun, by his widow Hamida Banu Begum.
+
+Constructed out of red sandstone, the Humayun’s Tomb was the first ever garden style tomb to be constructed in India. The Humayun’s Tomb stands in the centre of Charbagh style of gardens complete with pools linked by channels. The main entrance if the tomb is from the south side, though there is another entrance from the west side as well.
+
+The Humayun’s Tomb served as an early example for other Mughal tombs which were built over time, such as the Akbar’s tomb in Sikander, the tomb of Ghiyas-ud-Din Tugluq at Tugluqabad, the tomb of Sikander Lodi in the Lodi Gardens and the Taj Mahal.
+
+In the Humayun’s Tomb one can see architectural features which over time went on to become important component of Mughal architecture, such as its octagonal shape and its high central arch.
+
+Apart from Humayun, the tomb is also the final resting place of his wife Hamida Bahu Begum, Shah Jahan’s son Dara Shikoh and other prominent Mughals from the royal family. A UNESCO World Heritage Site, the Humayun’s tomb is best visited in the late afternoon if you wish to get some beautiful shots of the building.
+    </string>
+
+    <!--India Gate-->
+    <string name="title_activity_india_gate">India Gate</string>
+    <string name="india_gate_overview">Synonymous with New Delhi and situated in the heart of the city, India Gate is one of the most popular monuments in the city. The foundation stone of India Gate was laid in 1920 and the structure was unveiled in 1933. Designed by Edwin Lutyens, India Gate was dedicated to all the Indian soldiers of the British Army who died in World War I. Another memorial, the Amar Jawan Jyoti was added later and was dedicated to soldiers who sacrificed their lives in the Indo-Pakistan war of 1971.
+
+The India Gate is flanked by lush green lawns, which are a popular picnic spot, especially during winter afternoons and summer evenings. The wide roads surrounding the India Gate are also frequented by morning and evening walkers. There is also a small pond nearby where one can enjoy boating as well. At nightfall India Gate is beautifully lit up, including the surrounding fountains and makes for a beautiful sight.</string>
+
+    <!--Lodi gardens-->
+    <string name="title_activity_lodi_garden">Lodi Gardens</string>
+    <string name="lodi_garden_overview">Dotted with monuments and tombs from the Lodi and Sayyed periods of history, the Lodi Gardens in one of Delhi’s popular tourist attractions. Emblematic of 16th century architectural styles, the Lodi Gardens contain the tombs of Muhammad Shah and Sikandar Lodi.
+
+Despite being a historical monument, the Lodi Gardens has become an integral part of the lives of many Delhites as many picnickers, walkers and joggers frequent the gardens in the mornings and evenings.
+
+The Lodi Gardens also contain the National Bonsai Park, which is home to a wide variety miniature tress. The best time to go to the Lodi Gardens is around sunset when the sunlight is mellow and the tombs are beautifully lit up.
+    </string>
+
+    <!--Safdarjung's Tomb-->
+    <string name="title_activity_safdarjung">Safdarjung\'s Tomb</string>
+    <string name="safdarjung_overview">The last garden tomb in Delhi, the Safdarjung’s Tomb is the mausoleum of Safdarjung. Built between 1753-54 by Safdarjung’s son Shuja-ud-Daula this tomb has numerous small canopies, such as the Moti Mahal, Badsha Pasand and Jangli Mahal among others. The complex of the Hunayun’s Tomb also contains a Madrasa and a library maintained by the archeological survey of India.
+
+Constructed in the centre of the Charbagh style gardens, a popular architectural style in Mughal constructions, Safdarjung’s Tomb is decorated with ponds and fountains. Crafted out of red sandstone with a white marble dome, the Safdarjung’s Tomb is built on a raised platform with a gate to its east and spacious walkways on the other three sides.
+    </string>
+
+    <!--Red Fort-->
+    <string name="title_activity_lal_qila">Red Fort</string>
+    <string name="red_fort_overview">The Red Fort-a massive red sandstone fort is synonymous with Delhi and is proof of the glory of the flourishing Mughal Empire in Delhi.
+
+Commissioned by Shah Jahan in 1638 when he decided to shift the capital of the Mughal Empire from Agra to Delhi, the Red Fort took a total of ten years to be completed. The main gate to the Red Fort is the Lahore Gate and is also the site for the Prime Ministers speech every year on Independence Day. A UNESCO World Heritage Site, the Red Fort is spread over a rambling 254.67 acres and the walls alone are around 2kilometres long.
+
+The Red Fort is octagonal in design and there are beautiful flower decorations and calligraphy on the walls, examples of later Mughal style architecture. At one point the Read Fort was surrounded by a deep moat, used to keep intruders out. The Red Fort contains the Diwan-e-Aam, the Diwan-e-Khas, the Moti Masjid and the Hayat Baksh Bagh among other interesting architectural elements.
+    </string>
+
+    <!--Isa Khan's Tomb-->
+    <string name="title_activity_isa_khan">Isa Khan\'s Tomb</string>
+    <string name="isa_khan_overview">Located in the same complex as the Humyaun’s Tomb, the tomb of Isa Khan was built during his lifetime between 1562-1571. An Afghan Nobel in the court of Sher Shah Suri, Isa Khan’s tomb has a strong resemblance with other tombs constructed during the Sur Dynasty.
+
+Isa Khan’s tomb is beautifully adorned with varnished tiles, ornate awnings, lattice windows and ample verandahs held up by pillars. This tomb is one of the best and earliest examples of sunken garden style tombs in India.
+    </string>
+    <string name="title_activity_alai_darwaza">Alai Darwaza</string>
+    <string name="alai_darwaza_overview">The Alai Darwaza is the main gate from the southern side of the Quwwat-ul-Islam Mosque in the Qutub Minar complex .Built by Allaudin Khilji the Sultan of Delhi in 1311 AD, the Alai Darwaza has a domed entrance which is constructed using red sandstone and is adorned with white marble.
+
+The walls of the Alai Darwaza are intricately inscribed with Nashk script. Built by Turkic craftsmen the Alai Darwaza is one of the first buildings in India to be built using an Islamic architectural style. Considered to be one of the most important buildings of its time, the Alai Darwaza added to the charm of the Quwwat-ul-Islam Mosque with its beautiful arches and fringes which resembled lotus buds.
+    </string>
+    <string name="title_activity_jama_masjid">Jama Masjid</string>
+    <string name="jama_masjid_overview">Shah Jahan’s last architectural extravagance, the Jama Masjid towers over Old Delhi and is India’s largest mosque. Commissioned by Shah Jahan in 1650 the mosque took six years to be constructed and was completed in 1656. The massive courtyard of the Jama Masjid can hold up to twenty five thousand worshippers and houses many interesting relics, including an ancient copy of the Quran inscribed on deer skin.
+
+The main prayer hall of the Jama Masjid is topped with three white bulbous domes and the entrance is adorned with high rising arches which cover the mihrab (an alcove in the wall which indicates the direction of prayer). A pool in the centre of the mosque is used by the faithful for ablutions before prayer.
+
+The Jama Masjid is flanked by slim red and white minarets on all four sides which reach high into the sky. In the north east corner of the mosque is a small shrine which houses relics of Prophet Muhammad, such as a red hair from his beard, his sandals and his footprint imprinted on a marble slab.
+    </string>
+    <string name="title_activity_mehrauli_archaeological_park">Mehrauli Archaeological Park</string>
+    <string name="mehrauli_archaeological_park_overview">The Mehrauli Archaeological Park is an archeological complex spread over 200 acres in Mehrauli and houses over 100 historically important structures. The complex is known as being the only place in the city which has been continuously inhabited for 1000 year. The park has ancient relics dating from the times of the Khalji Dynaty, Tughlaq Dynasty, Lodhi Dynasty, the Mughal Empire and the Britsh Raj.
+
+The Mehrauli Archeological Park comprises of the Tomb of Balban, the tombs of Maulana Jamali Kamali, the tomb of Quli Khan, Rajon ki Baoli, Madhi Masjid, Jahaz Mahal, Zafar Mahal and the tomb of Adham Khan among others. Renovation and restoration of the park has been carried out and monuments have been restored. Apart t from that signage’s have been added to monuments, along with heritage and sandstone rails.
+    </string>
+    <string name="title_activity_alai_minar">Alai Minar</string>
+    <string name="alai_minar_overview">The Alai Minar is an unfinished tower in the Qutub Complex, construction of which was started by Alauddin Khilji. After Khilji had doubled the size of the Quwwat-ul-Islam Mosque he decided to constructed a tower which would be twice the height of the Qutub Minar. Construction of the Alai Minar came to a halt in 1316 following the death of Alauddin Khilji. Today the Alai Minar, a massive red rubble structure stands at a height of 2.5 meters.
+    </string>
+    <string name="title_activity_tombof_khan">Tomb of Khan-i-Khana </string>
+    <string name="tombof_khan_overview">Situated in Nizamuddin East, in close proximity to Humayun’s Tomb lies the tomb of Khan-i-Khana, a famous composer during the time of Mughal Emperor Akbar, more popularly known as Rahim.
+
+This tomb was originally built by Rahim for his wife in 1598, but he himself was buried here in in 1627. The tomb is topped with a bulbous dome and is adorned with canopies and arches. The tomb of Rahim is located below the surface and is inaccessible to the public. The first floor of the tomb contains two small raised platforms, though the rest of it is pretty bear with nothing much to see.
+    </string>
+    <string name="title_activity_diwani_khas">Diwan-i-Khas</string>
+    <string name="diwani_khas_overview">Located within the Red Fort, the Diwan-i-Khas, or the hall of private audiences is where the Emperor would conduct meeting with heads of state and high ranking officials. The hall is essentially a rectangular chamber with high arched openings, which are beautifully engraved. The arches are held in place by piers, which have been adorned with floral designs.
+
+In the centre of the Diwas-i-Khas would rest the famous Peacock Throne on which Shah Jahan would sit and preside over meetings. The throne was eventually looted by Nadir Shah in 1739. The Nahr-i-Bihisht or the “Stream of Paradise” would flow through the centre of the Diwan-i-Khas and the arches at the corner of the hall bore inscriptions from the lines of the famous 9th century Persian poet Ferdowsi.
+</string>
+    <string name="title_activity_tombof_imam_zamin">Tomb of Imam Zamin</string>
+    <string name="tombof_imam_zamin_overview">Located in the Qutub Complex near the Alai Darwaza is the tomb of Imam Zamin, a noted Turkestani Imam, who lived in the Qutub Complex during the rule of Sikandar Lodi. Imam Zamin came to Delhi during the 15th century and was the imam of the Quwwat-ul-Islam Mosque. This tomb was constructed by Imam Zamin and he was buried there after his death in 1538. Imam Zamins tomb is a small sandstone structure on an octagonal base; the interiors of the tomb are adorned with white plaster and delicate jaali work.
+    </string>
+    <string name="title_activity_ajmeri_gate">Ajmeri Gate</string>
+    <string name="ajmeri_gate_overview">Located in Chandni Chowk, the Ajmeri Gate was built on a square base and boasts of high arches. The Ajmeri Gate derives its name from the fact that the road which ran from this gate led to Ajmer in Rajasthan. The gate is surrounded by a park and a madrasa built in 1811 by Nawab Ghaziuddin Bahadur, the son of the first Nizam of Hyderabad.
+
+On the west side of the madrasa lies a tomb and a mosque. The Ajmeri Gate was also the site of India’s First War for Independence in 1857. Most of the walls of the Ajemri Gate have been pulled down for the sake of constructing commercial buildings, but the gate to the west is still standing.
+    </string>
+    <string name="title_activity_qila_rai_pithora">Qila Rai Pithora</string>
+    <string name="qila_rai_pithora_overview">The Qila Rai Pithora was constructed in the 12th century by Rajput ruler Prithviraj Chauhan. The first was constructed after the Chauhan Rajputs took over Delhi from the Tomar Rajputs.
+
+The complex of the Qila Lal Pithora also includes the Lal Kot, which had been built in the 8th century by Tomar ruler Anang Pal I. Throughout the 12th and 13th century, it was from this fort that the Tomars, Chauhans and the Slave Dynasty ruled Delhi. Apart from the fort the complex also contains a statue of Prithvi Raj Chauhan .Presently, there is not much left of the fort and remains of the crumbling fort walls can be seen scattered through various parts of South Delhi such as Saket, Mehrauli and Qutub Complex.
+    </string>
+    <string name="title_activity_hauz_khas_village_attractions">Hauz Khas Village</string>
+    <string name="hauz_khas_village_attractions_overview">Hauz Khas Village is a popular complex in Delhi which is essentially popular for its designer boutiques, specialty restaurants. This urban village or HKV as it is popularly known also houses an Islamic seminary, a mosque and a tomb constructed around a water tank. The historic remains in the Hauz Khas Complex were once part of Siri, a historic city built by the Allauddin Khilji, a popular ruler of the Delhi Sultanate. HKV witnesses a large footfall of visitors, especially over the weekend and many people enjoying talking morning and evening walks around the water tank.
+</string>
+    <string name="title_activity_purana_qila">Purana Qila (Old Fort)</string>
+    <string name="purana_qila_overview">One of the oldest forts in India, the Pura Qila was constructed by the Afghan King, Sher Shah Suri on what was supposed to be Indraprastha, the capital of the Pandavas. The walls of the Old Fort rise to a height of 18 metres and are spread over 1.5 kilometres. The fort has three main entrances, the Bada Darwaza which faces west and is used as the entrance to the fort even today. The South Gate is known as the Humayun Gate and the third gate is called the Talaqi Gate or the forbidden gate.
+
+All three gates are double storey structures constructed using sandstone and are surrounded by two large semicircular towers adorned with coloured marble embellishments and blue tile work. At the North and South Gates of the Purana Qila you will find beautiful balconies, chattris and pavilions which only add to the grandeur of the fort.
+    </string>
+    <string name="title_activity_khirki_masjid">Khirki Masjid</string>
+    <string name="khirki_masjid_overview">Located in Jahanpanah, the Khirki Masjd was commissioned by Khan-i Jahan Junan Shah, a high ranking official in the court of Tugluq Sultan Firoz Shah. The mosque has derived its name from the khirkis (windows) which adorn the upper floors.
+
+Spread over an area of 87 square metres, the Khirki Masjid has four large courtyards which provide ample light and ventilation to the inner prayer halls of the mosques. The mosque is built on a raised platform and is square in shape and is divided into quarters. Each quarter has its own courtyard. Passageways ways running from the north to the south of the structure divide the mosque into aisles.
+    </string>
+    <string name="title_activity_tughlaqabad_fort">Tughlaqabad Fort</string>
+    <string name="tughlaqabad_fort_overview">The Tughlaqabad Fort was built by the founder of the Tughlaq Dynasty, Ghiyas-ud-din-Tughlaq in 1321. Established as the fifth historic city, the fort was later abandoned in 1327. The fort is a gigantic stone structure, with walls that are 10-15 metres high. Crowning the walls are battlement parapets and bastions. The fort-city of Tughlaqabad was supposed to have as many as 52 gates, out of which only 13 remain now.
+
+The Tughlaqabad Fort has an interesting legend behind it. It is believed that Tughlaq wanted every laborer in the area to build the city-fort. This led to the fury of one of the labourers, Nizamuddin Auliya who cursed the fort saying “Ya rahey hissar, ya bassey gujjar”, which means, may the fort remain unoccupied, or else may herdsmen live here. Following this curse it is believed that the Empire could not prosper and the fort-city was soon abandoned.
+    </string>
+    <string name="title_activity_jamali_kamali_mosque">Jamali Kamali Mosque</string>
+    <string name="jamali_kamali_mosque_overview">Located in the Archeological Village Complex are two monuments besides each other. One is a mosque and the other a tomb of two people by the names of Jamali and Kamali.
+
+Jamali was the alias of Shaikh Jamali Kamboh, a famous and highly regarded sufi saint who lived during the pre-Mughal rule. Kamali on the other hand was an unknown person, but he was associated with Jamali. The tomb and mosque in the complex have been named together as “Jamali Kamali” since both people were buried next to each other.
+
+Construction of the tomb and mosque began in 1528 and took a year to be completed. The mosque is constructed in red sandstone and is housed in an enclosed garden. A large courtyard leads to the main prayer hall, complete with five high arches, but only the central arch is topped with a dome. All the arches are also beautifully adorned. The walls and alcoves of the mosque are inscribed with verses of the Koran. Adjacent to the mosque is the tomb, which is a flat structure adorned with red and blue paint and inscriptions from the Koran and verses from Jamali’s poems.
+    </string>
+    <string name="title_activity_khairul_manzil_masjid">Khairul Manzil Masjid</string>
+    <string name="khairul_manzil_masjid_overview">The Khairul Manzil Masjid is located opposite the Purana Qila and was built in 1561 by Maham Anga, a powerful wet nurse of Emperor Akbar. Anga was the foster mother of Akbar and briefly ruled the Mughal Emperor when Akbar was a young boy. The mosque was built with the help of Shiha-bud-Din-Ahmad Khan an influential minister and relative of Maham Anga.
+
+The Khairul Manzil Masjid is constructed using rubble which has been coated with white plaster and has five high arches which leads to the main prayer hall. The most impressive features of the mosque is the massive gateway which has been constructed using red sandstone. The central bay of the prayer hall is topped with a dome, while the other bays have been covered with a vault. The arch in the middle of the prayer chamber is covered with inscriptions which proclaim that the mosque was constructed by Maham Anga.
+    </string>
+    <string name="title_activity_parliament_house">Parliament House</string>
+    <string name="parliament_house_overview">Parliament House or Sansad Bhavan is one of the most impressive buildings in Delhi. Located at the end of Sansad Marg the Parliament Building was designed by British architect Edwin Lutyens and Herbert Baker. This iconic building was inaugurated in 1927 by Lord Irwin, the then Governor-General of India.
+
+The Parliament House comprises of a central hall which is circular in shape and 98 feet in diameter. The Central Hall is considered to be a very important part of the Parliament building since this is where the Indian Constitution was drafted. The building houses the Lok Sabha, Rajya Sabha and a library hall. In between these three chambers lies a garden. The building also has facilities for accommodation for ministers, important officers of the Lok Sabha and Rajya Sabha, Chairmen and Parliamentary Committees.
+
+The Parliament House also houses a museum which aims at educating people on the “Democratic Heritage of India” and which dates back to 2500 back. The museum is set up in a very interesting way and is complete with sound and light videos, large screen interactive computer screens and virtual reality among other features.
+    </string>
+    <string name="title_activity_shantivan">Shantivan</string>
+    <string name="shantivan_overview">Shantivan, or the Forest of Peace, is the Samadhi, or cremation spot of India’s first Prime Minister, Jawaharlal Nehru. The samadi in the form of a large base covered with a lawn is located north of Raj Ghat, the Samadhi of Mahatma Gandhi. Shantivan is visited by many visiting dignitaries and heads of state who come here to pay their respects. Special prayer services are organised on the birth and death anniversaries of Nehru. Cultural programs by children also take place, since Nehru loved children and they in turn fondly called him Chacha Nehru.
+    </string>
+    <string name="title_activity_raj_ghat">Raj Ghat</string>
+    <string name="raj_ghat_overview">Raj Ghat is the memorial of Mahatma Gandhi, the Father of the Nation. A black stone platform in an open air complex marks the spot where Gandhi was cremated. A flame constantly burns at one end of the platform and visitors are required to remove their footwear before they enter Raj Ghat. Also close to the Raj Ghat is the memorial of Jawaharlal Nehru, known as Shantivan.
+    </string>
+    <string name="title_activity_jantar_mantar">Jantar Mantar</string>
+    <string name="jantar_mantar_overview">Jantar Mantar is an observatory constructed by Maharaja Jai Singh of Jaipur in 1724. The essential purpose of the Jantar Mantar was to accumulate astronomical tables which in turn would help predict the time and movement of the celestial bodies such as the sun, moon and other planets.
+
+The Jantar Mantar comprises of various instruments which helped with these predictions, such as the Samrat Yantra, Jayaprakash Yantra and the Misra Yantra among others. After constructing the Jantar Mantar in Delhi, Raja Jai Singh constructed more such structures by the same name in Jaipur, Ujjain, Mathura and Varanasi. The Jantar Mantar remains a popular tourist destination and is a great place for lovers of astronomy.
+    </string>
+    <string name="title_activity_vishwa_shanti_stupa">Vishwa Shanti Stupa</string>
+    <string name="vishwa_shanti_stupa_overview">The Vishwa Shanti Stupa, also known as the World Peace Pagoda is located in the heart of Delhi in the Indiraprastha Park. The aim of the Shanti Stupa is to create a place of peace and do encourage programs that promote peace and primarily non –violence across the world.
+
+The Shanti Stupa was the brainchild of Fujii Guruji, a Japanese Buddhist monk, in 1978 after having received the Jawaharlal Nehru Award for International Understanding by the Government of India. The pagoda is 28 metres high, is built with white marble and has a golden pinnacle. The architecture of the stupa has been inspired by the Sanchi Stupa in Madhya Pradesh and a Japanese garden has been constructed in the area around the stupa.
+
+Inaugurated on 14th November 2007 the Vishwa Shanti Stupa is dedicated to people in India and across the world to promote peace and non-violence. Various relics and sacred objects have been dedicated to this stupa by the Dalai Lama, the President of Sri Lanka, the President of Mongolia and the Prime Minister of Nepal. Over the years the Shanti Stupa has become a symbol of peace and aims at promoting peace across the world.
+    </string>
+    <string name="title_activity_rang_mahal">Rang Mahal</string>
+    <string name="rang_mahal_overview">The Rang Mahal, which means the Palace of Colour is a palace within the Red Fort where the Emperor’s wives and mistresses would live. The palace is topped with a golden plated dome and was adorned with intricate mirror work on the ceiling. Apart from that the ceiling was also decorated with ornate gold and silver work which reflected in a pool which lay on the marble floor of the palace.
+    </string>
+    <string name="title_activity_rashtrapati_bhavan">Rashtrapati Bhavan</string>
+    <string name="rashtrapati_bhavan_overview">The Rashtrapati Bhavan is the official residence of the President of India and is a rambling mansion with breath taking architecture. Spread over 320 acres, the vast grounds of the Rashtrapati Bhavan are home not only the head of state, but also staff quarters, stables, offices and the beautiful and famed Mughal Gardens.
+
+The Rashtrapati Bhavan was designed by British architect, Edwin Lutyens and is a unique amalgamation of Mughal and European architecture. Such is the grandeur of this mansion that very few residences of heads of states from around the world can match up to the extravagance that is the Rashtrapati Bhavan. Situated at the eastern edge of Rajpath, the Rashtrapati Bhavan faces the India Gate, which lies at the Western edge of the same road.
+
+On either side of the Rashtrapati Bhavan lie the North Block and South Block, which house various ministries of the Government of India. The lavish Mughal Gardens lie behind the North Block and South Block, which opens to the public from mid-February to mid-March. Apart from this you can also enjoy a guided tour of a few section of the Rashtrapati Bhavan, such as the Durbar Hall, Lutyens’ Gallery, Long Drawing Room, Ashoka Hall, Children’s Gallery and Gift Museum which have now been opened to the public.
+    </string>
+    <string name="title_activity_lotus_temple">Lotus Temple</string>
+    <string name="lotus_temple_overview">The Baha’I House of Worship, more popularly known as the Lotus Temple, owing to its shape and design, is one of Delhi’s most recognized structures.
+
+The Lotus temple, constructed entirely out of white marble, is known for its modern architecture, which stands out against the concrete jungle around it. The temple consists of twenty seven massive marble petals shaped like an unfolding lotus flower, which rises from nine pools and walkways. The number nine signifies the nine unifying paths of the Baha’i faith. A little niche under each petal contains sayings from the Baha’I scriptures.
+
+The temple does not contain any idols or images, as it is against the Bah’i faith and visitors are welcome to meditate inside the temple silently. The temple is surrounded by beautifully maintained laws and the best time to visit the temple is during sunset.
+    </string>
+    <string name="title_activity_nehru_park">Nehru Park</string>
+    <string name="nehru_park_overview">The Nehru Park is a large park located in the heart of the city spread over an area of 80 acres. Established in 1969 and named after India’s first Prime Minister Jawaharlal Nehru, the Nehru Park is a popular venue for many music shows, such as the SPIC MACAY and the Bhakti Music Festival. The Nehru Park is beautifully maintained and is complete with beautiful flowers, fountains and walking paths.
+
+Other than this the park is also a popular spot for Yoga classes and morning and evening walks. The park is also a popular picnic spot, especially during winters.
+
+The Nehru Park also houses a large statue of Vladimir Lenin, leader of the great October Socialist Revolution and every year on the 22nd of April members of the Communist Party of India visit the Nehru Park to celebrate the birth anniversary of Lenin.
+    </string>
+    <string name="title_activity_akshardham_temple">Akshardham Temple</string>
+    <string name="akshardham_temple_overview">The Swaminarayan Akshardham, popularly known as the Akshardham Temple is a Hindu temple which exemplifies traditional Hindu culture and architecture. The temple was developed by the spiritual head of the Shri Akshar Purushottam Swaminarayan Sanstha, Pramukh Swami Maharaj. 7000 artisans were involved in the construction of the temple aided by 3000 volunteers.
+
+The Akshardham temple was opened in November 2005 and boasts of spectacular architecture. The entire structure of the temple has been built without using steel and is complete with 234 intricately carved pillars, 9 beautiful domes, 20 rising towers, a plinth of stone elephants known as the Gajendra Pith along with statues of famous Indian sadhus and spiritual personalities. The structure of the mandir is an amalgamation of pink stone and white marble and is one of the most visited tourist destinations in the city.
+    </string>
+    <string name="title_activity_kingdomof_dreams">Kingdom of Dreams</string>
+    <string name="kingdomof_dreams_overview">The Kingdom of Dreams is India’s flagship live entertainment hub. Located in Gurgaon, Haryana, KOD as it is popularly called is spread over 6 acres and offers visitors numerous entertainment options. Right from live theatre to food to shopping, Kingdom of Dreams has it all.
+
+Two of the most famous shows playing at Kingdom of Dreams are Zangoora-The Gypsy Prince and Jhumroo, a musical tribute to legendary singer Kishore Kumar. Nautanki Mahal is the venue of these two shows, which is built in a state of the art manner, complete with matrix sound system for a more real and enjoyable theatre experience.
+
+To enjoy arts and culture from across the country head to the Culture Gully in the Kingdom of Dreams. Spread over an area of 1,00,000 sq ft there are restaurants representing 14 states from across India. Each restaurant has a unique theme and showcases something unique about the state. The Culture Gully has two lounge bars, the Mekhana Bar and the Kerala Bar.
+
+Apart from that the Kingdom of Dreams also has handicraft and souvenir shops and also has street performers and massage centres.
+</string>
+    <string name="title_activity_connaught_place_attractions">Connaught Place</string>
+    <string name="connaught_place_attractions_overview">Located in the heart of Delhi, Connaught Place is one of the most important business and commercial centres of the city. Connaught Place and its iconic white pillars form a large circle in the centre of the city with seven streets diverging from it. This city centre is home to several shops, restaurants and offices and is a great place to spend a weekend.
+
+Often shortened to CP, Connuaght Place was built by the British in 1933 and was named after the 1st Duke of Connaught and Strathearn. In 1995 Connaught Place was renamed Rajiv Chowk after later Prime Minsiter Rajiv Gandhi, yet it still continues to be known as Connaught Place. Connaught place is divided into the Inner, Outer and Middle Circle and the Outer Circle is at times referred to as Connaught Circus.
+    </string>
+
+    <string name="title_activity_ubcity">UB city</string>
+    <string name="ubcity_overview">Located in one of Bangalore’s upscale neighborhoods, the UB Mall is a high-end luxury mall and a popular attraction in Bangalore. It houses the stores of some of the most finest international brands in the world like Jimmy Choo, Ermenegildo Zegna and Bottega Veneta.
+
+Apart from these, there are stores of several other international and national brands from where you can shop for a variety of goods and apparels.
+    </string>
+    <string name="title_activity_the_bombay_store">The Bombay Store</string>
+    <string name="the_bombay_store_overview">A one-stop shop for all your shopping needs, Bombay Store is a paradise for shopaholics. You can shop for various items here ranging from fashion accessories, wellness products, artifacts, souvenirs and gifts. The shop is particularly famous for its exquisite silk scarves.
+    </string>
+    <string name="title_activity_commercial_street">Commercial Street</string>
+    <string name="commercial_street_overview">Commercial Street is a bustling street full of stores selling international brands as well as local products. Commercial Street is also home to several body piercing centres. The area exudes an old, British-era charm and is a must-visit when in Bangalore.
+    </string>
+    <string name="title_activity_orion_mall">Orion Mall</string>
+    <string name="orion_mall_overview">For a high-end, luxurious shopping experience, head to the Orion Mall. This sprawling mall covers an area of about 8,50,000 square feet and houses stores of several international and Indian brands. One can also enjoy a session of bowling at Blu and later, go for a lovely lakeside dinner at the Al Fresco restaurant.
+    </string>
+    <string name="title_activity_brigade_road">Brigade Road</string>
+    <string name="brigade_road_overview">Brigade Road is a favourite shopping haunt for the city’s youngsters. Originally the road where British soldiers went shopping for their groceries. Today, it is one of the biggest commercial centres in Bangalore bustling with shops selling both international and national brands.
+
+San Francisco Jeans, Nike, Pepe Jeans, Levis and Lee have stores here as do eateries like Pizza Hut, KFC and Café Coffee Day.
+    </string>
+    <string name="title_activity_bannerghatta_road">Bannerghatta Road</string>
+    <string name="bannerghatta_road_overview">Although not as famous as other bustling markets of Bangalore, the Bannerghatta Road market is slowly gaining popularity. There is an open space here called the ‘Grasshopper’ that has on display designs from the most innovative and experimental Indian designers.
+
+If you wish to buy some of these quirky and innovative designer clothes, the Bannerghatta Road market is a must-visit!
+     </string>
+    <string name="title_activity_phoenix_mall">Phoenix Mall</string>
+    <string name="phoenix_mall_overview">Located on Whitefield Road, the Phoenix Mall is one of the largest malls in Bangalore where you will find a variety of national and international brands, western clothing, Indian ethnic wear and much more!
+
+The mall boasts of a big food court where you can enjoy delicious snacks and full course meals. Phoenix Mall also has a large outdoor play area for children.
+    </string>
+    <string name="title_activity_the_forum_mall">The Forum Mall</string>
+    <string name="the_forum_mall_overview">The Forum Mall is a popular shopping and entertainment hub in Koramangala, Bangalore. The mall comprises a multiplex with 11 screens as well as other entertainment and shopping outlets. You can watch the latest movies, go shopping for clothes, shoes, electronics and accessories or catch a bite at the mall’s food court called The Transit. it also has a multi-story book store. It’s particularly popular with Bangalore’s youth.
+    </string>
+    <string name="title_activity_grasshopper_restaurant">Grasshopper Restaurant</string>
+    <string name="grasshopper_restaurant_overview">The Grasshopper has quickly become one of the most popular restaurants in the busy cosmopolitan city of Bangalore. The restaurant is located on a beautiful family farm.
+
+The unique thing about this restaurant is the fact that there is no printed menu here. You need to call in advance to confirm your booking and then the chef prepares a delicious seven course meal! The restaurant maintains high standards of hygiene and service.
+    </string>
+    <string name="title_activity_caperberry_restaurant">Caperberry Restaurant</string>
+    <string name="caperberry_restaurant_overview">If you crave for continental and Spanish cuisines, Caperberry is the place to be! For those who haven’t had a chance to enjoy Spanish cuisine yet, Caperberry is the perfect place to start.
+
+The restaurant boasts of a menu that uses molecular gastronomy to offer a deconstruction of the traditional Salad Caprese, for instance. While at Caperberry, you must spend some time at Tapas lounge. Tapas is inspired by the modern Spanish style and has a collection of 20 single malt scotch to keep the patrons company.
+    </string>
+    <string name="title_activity_oko_restaurant">Oko Restaurant</string>
+    <string name="oko_restaurant_overview">For the ones who love feasting on delicious Chinese, Japanese, Malaysian, Indonesian and Thai cuisines, Oko Restaurant is the best choice.
+
+It is one of the most exquisite places to dine in Bangalore, especially with the blue ceiling at night and the option to enjoy your meal outdoors in the lounge or the fine dining area.
+    </string>
+    <string name="title_activity_istanbul_doner_turkish_grill">Istanbul Doner &amp; Turkish Grill</string>
+    <string name="istanbul_doner_turkish_grill_overview">If you wish to try the delightful Turkish cuisine, head to the Istanbul Doner &amp; Turkish Grill for a full course meal. Located in a bylane near the Indiranagar BDA complex, the restaurant is small but beautifully decorated in the Turkish style. The service is good and the food is quite delicious.
+    </string>
+    <string name="title_activity_dum_pukht_jolly_nabob_restaurant">Dum Pukht Jolly Nabob Restaurant</string>
+    <string name="dum_pukht_jolly_nabob_restaurant_overview">Located in ITC Windsor, the Dum Pukht Jolly Nabob is one of the most popular Indian restaurants in Bangalore. The restaurant specialises in hybrid cuisine, fondly called the Anglo Lucknowi. As the name suggests, the cuisine is a mix of English and Awadhi cuisines. You can treat yourself and your family to a superb Anglo Lucknowi dinner at this restaurant. The restaurant offers drink-and-dish pairing menus to help guests compliment their meal with the right alcohol.
+    </string>
+    <string name="title_activity_portland_steak_house_cafe">Portland Steak House Cafe</string>
+    <string name="portland_steak_house_cafe_overview">The Portland Steak House and Café provides a beautiful garden for you to sit and enjoy your steak. The cafe serves juicy steaks of different meats, up to eight varieties of sauce and six sides to go with it. Finish off the meal with their highly recommended desserts.
+    </string>
+    <string name="title_activity_tipu_sultan_palace">Tipu Sultan\'s Palace</string>
+    <string name="tipu_sultan_palace_overview">The grand summer palace of Tipu Sultan has now been converted into a museum, and it is a must-see attraction in Bangalore. Magnificent figures, paintings and other artwork adorn this palace. A unique feature of the palace is that it had been constructed using pure teak wood, something that is hard to find in today’s world.
+    </string>
+    <string name="title_activity_cubbon_park">Cubbon Park</string>
+    <string name="cubbon_park_overview">This beautiful park showcases more than 6,000 species of trees and plants, along with famous statues and well-planned avenues spread out over an area of 300 acres.
+
+Cubbon Park is frequented by nature lovers as well as those who wish to explore the magnificent landscaping and architecture of this park situated right in the heart of Bangalore city.
+    </string>
+    <string name="title_activity_vidhan_soudha">Vidhan Soudha</string>
+    <string name="vidhan_soudha_overview">This is one of the most important structures in Bangalore. The 46-metre tall imposing building comprises 300 rooms, each of which reflects the impressive Dravidian style of architecture. Housing 22 departments of the Government of Karnataka, Vidhan Soudha also happens to be one of the one of the largest legislative buildings and is a must-see tourist attraction in Bangalore.
+    </string>
+    <string name="title_activity_lal_bagh">Lal Bagh</string>
+    <string name="lal_bag_overview">Lal Bagh is the most famous tourist attraction in Bangalore and is spread out over 240 acres. The botanical garden was built in the 18th century during the reign of Hyder Ali and his son Tipu Sultan.
+
+This enchanting garden has preserved some of the rarest species of flora and fauna and also houses a lake and a glasshouse. Flower shows held at Lal Bagh is something you wouldn’t want to miss out on!
+    </string>
+    <string name="title_activity_bannerghatta_national_park">Bannerghatta National Park</string>
+    <string name="bannerghatta_national_park_overview">Situated in the middle of the forests in the valley of the famous Champakadhama hills, the Bannerghatta National Park, a rich natural zoological reserve, works towards conservation of wildlife and promotes responsible wildlife tourism.
+
+        Located just 22 kilometres south of Bangalore, it takes roughly one and a half hours to get there. It’s one of the few natural parks in the world that preserves wildlife in such close proximity to a city.
+
+        It comprises a zoo, safari, butterfly park and rescue center that carries out conservation and rehabilitation of orphaned animals. The animals of the park are provided with an ambience that allows them to live in harmony with nature.
+    </string>
+    <string name="title_activity_bangalore_palace">Bangalore Palace</string>
+    <string name="bangalore_palace_overview">A scenic palace which bears striking resemblance to England’s Windsor Castle, Bangalore Palace is a scenic tourist hotspot with a majestic castle-like structure set amidst lush green environs.
+
+The huge palace grounds are used for organizing various types of events and musical shows, most of which include rock concerts. While you are here, don’t miss the immaculately designed interiors of the palace filled with magnificent paintings and stained glass windows. Photography is allowed within the premises so capture some of the greatness in your lens!
+    </string>
+    <string name="title_activity_wonderla">Wonder la</string>
+    <string name="wonderla_overview">A world of splashing waters, ecstatic children and thrilling rides – Wonderla is truly the wonderland of fun and joy. Treat yourself and your children to a day of pure thrill and excitement at the Wonderla Amusement Park. The rides at the park are divided in terms of kids’ rides, water rides, dry rides and high thrill rides.
+
+You can purchase you tickets online; the park also offers special discounts for students. Try to get to the park early so that you don’t need to queue up for your favourite ride and if you plan to get on the water rides then it’s a good idea to carry a change of clothes.
+    </string>
+    <string name="title_activity_innovative_film_city">Innovative Film City</string>
+    <string name="innovative_film_city_overview">Innovative Film City is a famous entertainment landmark in Bangalore and has been entertaining visitors since 2008. About 40 kilometres from the heart of Bangalore and spread across 50 acres of land, IFC is an entertainment hub with 27 different facilities ranging from an amphitheatre, an entertainment district, food courts and theme restaurants.
+
+It also boats of India\'s first Dinosaur Park, Haunted Mansion, Cartoon City, Aqua Kingdom, Ripley\'s Enchanted Mirror Maze, Ripley\'s Believe it or Not Museum, Funplex within 4D - Theatre, Louis Tussaud\'s Wax Museum, Go-Karting, Mini Golf, Innovative Wannado City, Adventure Sports, Roller Skates, Fossil Museum, Fossil Hunt and Double Decker Carrousel amongst other fun activities.
+    </string>
+    <string name="title_activity_lumbini_gardens">Lumbini Gardens</string>
+    <string name="lumbini_gardens_overview">This is a beautiful water-front park stretches across 1.5 kilometres along the Nagavara Lake and offers multiple attractions to its visitors. It’s a great place to spend time with the entire family and try different leisure activities including boat rides.
+
+In addition to natural beauty, diverse plant species, and well-groomed lawns, the park also has a wave pool and an artificial beach. After indulging an array of entertainment activities you can go grab a bite at the food court, which serves multiple options for all palates.
+    </string>
+    <string name="title_activity_lal_bagh_botanical_garden">Lal Bagh Botanical Garden</string>
+    <string name="lal_bagh_botanical_garden_overview">The Lalbagh Botanical Garden spread across 40 acres was built in 1760 by Hyder Ali, one of the most famous rulers of old Mysore and the father of Tipu Sultan. The garden was to begin with designed in Mughal style, but was later also developed under the influence of Tipu Sultan and then the British. The garden saw an extension of area and now covers 240 acres of land.
+
+The lush garden is renowned internationally for horticulture studies and for its well-maintained treasure trove of plant species. Today, the garden has about 1,854 species of plants. It is a beautiful public space for healthy recreation bringing people close to nature. Lalbagh has well-laid out roads, paths, seating spaces and of course plants.
+
+The centre stage of Lalbagh is the charming Glass House that was made for acclimatizing the exotic species. It also holds the famous biannual flower shows in January and August.
+
+Travel Info: The garden is easily accessible by car or you can take a bus going towards Jayanagar. It is located about 4 kilometres from the State Legislature or the Vidhana Soudha.
+    </string>
+    <string name="title_activity_dodda_ganesha_temple">Dodda Ganesha Temple</string>
+    <string name="dodda_ganesha_temple_overview">The Dodda Ganesha Temple, a popular landmark of Bangalore, is located just next to the Bull Temple close to Bugle Rock Park.
+
+The Ganesha idol here is 18 feet tall and 16 feet wide. The idol is decorated in different ways during the week and one of the most popular attractions is when idol is coated with butter (Benne Alankara). It is said that more than 100 kg of butter is needed to apply on the idol.
+
+The temple attracts many devotees from all over Bangalore.
+    </string>
+    <string name="title_activity_bull_temple">Bull Temple</string>
+    <string name="bull_temple_overview">The Bull Temple or Dodda Basavana Gudi in Basavanagudi is devoted to Nandi Bull, the vahana or vehicle of Lord Shiva. Built in the 16th century in Dravidian style architecture, the temple is one of the oldest temples in Bangalore.
+
+The temple has one of the biggest idols of Nandi in granite - measuring about 15 feet in height and 20 feet in length.
+
+Legend has it that this temple was built to appease a bull that used to devour and destroy all the groundnuts and peanuts cultivated in this area. It is believed that after the temple was built, the bull stopped hampering the crop. To celebrate this, the farmers organised a Groundnut Fair (Kadalekai Parase) near the temple and offer groundnut to the deity. This fair is still held and attended by people from neighbouring areas.
+    </string>
+    <string name="title_activity_fun_world">Fun World</string>
+    <string name="fun_world_overview">Located in the heart of Bangalore, Fun World is a theme park spread over a sprawling lush green area of 22 acres. A day at Fun World makes for a fun activity for all age groups as they offer entertainment and rides for adults as well as kids.
+
+Apart from rides like the Giant Wheel, Merry Go Round, Coloumbus and Tora Tora, Fun World also has a water park with more exciting rides. Some of these include the Amazing Cyclone, the Pendulum, Wave Pool and Water Slides. For those who don’t really feel like getting on any ride, there’s the lazy river.
+
+Another interesting feature of the Fun World is the Star City that has many electronic and semi-robotic games for children, and a 12-lane bowling alley.
+
+You can pick up quick bites from the small snack bar and juice corner.
+    </string>
+    <string name="title_activity_sree_siddaganga_mutt">Sree Siddaganga Mutt</string>
+    <string name="sree_siddaganga_mutt_overview">Established in 15th Century A.D. Sree Siddaganga Mutt follows an ancient model of the Gurukul that tries to provide service to the needy. Situated in the middle of a lovely and peaceful landscape, the mutt is an inspiring institute that offers education to over 8,000 poor children, between the age of five and 16 years.
+
+These children are also provided free food and shelter. The academy is free from any form of discrimination and admits children from all faiths and communities. The mutt also has a school for blind children, which has more than 100 kids.
+
+There ashram also has temples of Sree Siddalingeshwara and Sree Siddalingamma. The mutt is headed by Dr. Sree Sree Sree Shivakumara Swamiji, who is now 104 years old.
+
+Located in Tumkur, it is about 63 kilometres from Bangalore and would take approximately two hours to reach by car.
+    </string>
+    <string name="title_activity_gavi_gangadhareshwara_temple">Gavi Gangadhareshwara Temple</string>
+    <string name="gavi_gangadhareshwara_temple_overview">
+        The ancient Gavi Gangadhareshwara Temple dedicated to Lord Shiva is a great example of the Indian rock-cut architecture. Believed to have been built around the 9th century, the temple was cut out of a monolithic rock.
+
+The deity in the main shrine is a Shivalinga. Apart from this, there is also Nandi sculpture in the front of the temple and a rare idol of Agni, the God of fire.
+
+Also known as Gavipuram Cave Temple, a fascinating characteristic of the temple are its mysterious stone discs in the forecourt and the precise planning that allows the sun to shine on shrine in certain time of the year.
+
+Makar Sankranti, which is held in the middle of January every year, is a special day for the temple when thousands of devotees come here. This is the day when sunrays fall on the Sivalinga for one hour as it passes between the horns of Nandi. This proves how advanced the architecture and astronomy of the ancient sculptors was as they could craft the horns of the stone bull outside the temple in a way that the sun\'s rays would pass through its horns and light up the Shivalinga inside the cave. The sun is supposed to illuminate the Shivalinga two times every year - from 13 to 16 January in late afternoons and from 26 November to 2 December.
+
+The temple is located at a distance of about 3 kilometres from the City Market and can be reached easily via buses, rickshaws or taxis.
+    </string>
+
+    <string name="title_activity_chikmagalur">Chikmagalur</string>
+    <string name="chikmagalur_overview">A beautiful mountainous destination, Chikmagalur is the first district to have cultivated coffee in India. Situated in south-west Karnataka, Chikmagalur has Mullayanagiri, the highest peak in the state. It also has rivers like Tunga and Bhadra that have their sources in the mountains here.
+
+A delight for everyone, Chikmagalur has hill stations, waterfalls, historical temples and wildlife sanctuaries. It is also called Chikkamagaluru, meaning ‘The town of the younger daughter’ in Kannada. The town gets its name from the belief that it was given as a dowry to the younger daughter of Rukmangada, the famous chief of Sakrepatna.
+
+Chikmagalur is about 240 kilometres from Bangalore and can be reached by train or by bus. The nearest railway station is to Chikmagalur is Kadur. From Bangalore it would take about three hours to reach Kadur and from there it would take another 45 minutes by bus or taxi. The bus journey takes about 5.5 hours.
+
+
+    </string>
+    <string name="title_activity_visvesvaraya_industrial_technological_museum">
+        Visvesvaraya Industrial and Technological Museum
+    </string>
+    <string name="visvesvaraya_industrial_technological_museum_overview">
+        The Visvesvaraya Industrial and Technological Museum (VITM) is more like a Science Centre because it has interactive exhibits unlike the usual stationary models of a museum.
+
+Each floor of this museum is dedicated to a scientific discipline. The first floor has the ‘Fun Science Gallery’ that displays exhibits on sciences of sound, optics, fluids, math and perception.
+
+The ‘Engine Hall’ exhibits engines of automobiles, industrial machines, a jet aircraft engine, and other mechanical devices. Similarly, there is an ‘Electro Technic Gallery’ that contains interactive electrical exhibits that work on the basic principles of electricity, electronics and communication. The ‘Space Gallery’ is about rocket science and the history of space exploration.
+
+The museum also has a 3D theater, which uses technology from LightSpeed, USA. The theatre shows fascinating films on deep sea diving and the brain using 3D effects.
+    </string>
+    <string name="title_activity_savandurga">Savandurga</string>
+    <string name="savandurga_overview">Made up of two hills, Karigudda (Black Hill) and Biligudda (White Hill), Savandurga is supposed to be the highest monolith in Asia. About 33 kilometres from Bangalore, off the Magadi Road, this hill rises 1,226 meters above sea level. The area is surrounded by a thick forest of scrubs and dry deciduous vegetation.
+
+Savandurga is a popular pilgrimage center with the Veerbhadraswamy Temple and the Lakshmi Narasimha Swamy Temple at the foothills and Biligudda, a small shrine to Nandi, Lord Shiva’s sacred bull, located at the top of the hill. Trekkers frequent this place for the two main trekking trails going towards Savanadurga. One is the Karigudda and the other is the Biligudda trail. While Biligudda is easier to climb with a well-marked out trail, Karigudda is tougher and less explored and involves the use of good rock climbing equipment.
+
+The Manchanabele Dam nearby is a great place for a gorgeous view of the Savanadurga Hill. It also other adventure opportunities like camping, especially close to the reservoir, which is a great place for water sports. You can reach Savandurga by bus from Bangalore in about 2.5 hours.
+    </string>
+    <string name="title_activity_national_galleryof_modern_art">National Gallery of Modern Art</string>
+    <string name="national_galleryof_modern_art_overview">The National Gallery of Modern Art in Bangalore is located in the grand Manikyavelu Mansion on Palace Road, which was once the property of the Mysore royal family.
+
+The heritage building is now a modern museum with a refurbished auditorium, an open air theatre, a library, offices and art storage, a cafeteria, and a museum shop cum facilitations block.
+
+The gallery has an impressive collection of India’s changing art forms over the last 150 years starting from about 1857.
+    </string>
+
+    <string name="title_activity_johari_bazaar">Johari Bazaar</string>
+    <string name="johari_bazaar_overview">Johari Bazaar is the most popular market of Jaipur and if you have a wedding coming up in your family, this is the place to shop from. From wedding lehengas with tie and dye, hand embroidery, mirror and kundan work to delicate and dazzling pieces of jewellery, you can look for all of it here.
+
+Precious and semi-precious stones can be found in abundance and you can trust the stores for authenticity. Every eighth diamond in the world is, in fact, polished in Jaipur and this makes it one of the best places to shop at for jewellery. Johari Bazaar is also a must visit for Laxmi Mishthan Bhandar, the most popular sweet shop in Jaipur.
+    </string>
+    <string name="title_activity_bapu_bazar">Bapu Bazar</string>
+    <string name="bapu_bazar_overview">Bapu Bazaar is not just a great place to shop at but also makes for a good walk. The pink rustic buildings on both sides of the road give you the true essence of Jaipur. This market is one of the most popular ones and the variety of goods that is available here draws millions of tourists every day.
+    </string>
+    <string name="title_activity_nehru_bazaar">Nehru Bazaar</string>
+    <string name="nehru_bazaar_overview">From perfumes and textiles to trinkets and traditional jootis, you can find it all in Nehru Bazaar. You can also shop here for blue pottery. A vibrant market, it is located close to Chaura Rasta and Kishanpol Bazaar and is just the perfect place to buy souvenirs for friends back home. Try your bargaining skills here and you might just strike a good deal!
+    </string>
+    <string name="title_activity_mirza_ismial_road">Mirza Ismial Road</string>
+    <string name="mirza_ismial_road_overview">M.I. Road has the Emporia Complex where you can buy decoratives and traditional artwork for your home. The huge array of clothes, jewellery, textiles, carpets, artefacts and ornamented handicrafts available here is fascinating.
+    </string>
+    <string name="title_activity_tripolia_bazaar">Tripolia Bazaar and Chaura Rasta</string>
+    <string name="tripolia_bazaar_overview">These markets also have a variety of goods on offer. Come here for textiles, lac bangles, utensils and ironware. Chaura Rasta is also the place to buy books. With a wide range of things on offer, these markets are very popular among tourists and locals alike.
+    </string>
+    <string name="title_activity_handicraft_haveli">Handicraft Haveli</string>
+    <string name="handicraft_haveli_overview">Handicraft Haveli is a partnership concern engaged in manufacturing, supplying, trading and exporting items including sandstone accessories, silver decorative, historical canvas etc. The store is filled with genuine and unusual Indian handicrafts and antiques on three floors. The staff is friendly and knowledgeable. The items on sale are of good quality and moderately priced.
+    </string>
+    <string name="title_activity_jewellery">Jewellery</string>
+    <string name="jewellery_overview">Rajasthan is known for its intricately designed jewels. So it’s natural for anyone visiting the pink city of Jaipur to look for jewellery shops. There are many jewellery shops in Jaipur where you can search for best pieces and enhance your persona. Silver jewellery are probably the most in demand at Jaipur as well as all over Rajasthan. You can also shop for gold and other precious stones from Jaipur.
+</string>
+    <string name="title_activity_govind_rajasthali_cottage_industries">
+        Govind Rajasthali Cottage Industries
+    </string>
+    <string name="govind_rajasthali_cottage_industries_overview">If you are looking out for authentic Rajasthani clothes and jewellery, you may want to get in touch with Govind Rajasthali Cottage Industries. It deals in a lot of stuff including cotton and silk sarees, readymade Rajasthani dresses, handicraft items, paintings, the famous Jaipuri quilts, bed sheets and kurtas etc.
+
+Coupled with Rajasthani hospitality, staff at the store will not only help you choose but will also ensure that you make the best possible purchase! Also, if painting interests you, you may also learn hand painting and see it being done in front of your eyes at the store. That too, for free.
+    </string>
+    <string name="title_activity_neelam_handicraft_shop">Neelam Handicraft Shop</string>
+    <string name="neelam_handicraft_shop_overview">Carry souvenirs for yourself and your loved ones from Neelam Handicraft Shop in jaipur. It not only specializes in hand made artefacts and paintings, but you would be pleasantly amazed to see the beautifully crafted live statues. A true masterpiece for all kinds of souvenir and gift needs, this shop will leave you in awe.
+    </string>
+    <string name="title_activity_rajasthan_leather_handicrafts">Rajasthan Leather Handicrafts</string>
+    <string name="rajasthan_leather_handicrafts_overview">This one is for the shopping enthusiasts, especially the ones who are big on buying leather goods. Exquisitely designed leather handicrafts like leather handbags, purses, belts, shoes, jackets and other leather accessories can be bought at reasonable rates from Rajasthan Leather Handicrafts, located on Amer Road.
+    </string>
+    <string name="title_activity_handi_restaurant">Handi Restaurant</string>
+    <string name="handi_restaurant_overview">A renowned eatery serving exceptional food and offering brilliant services, Handi restaurant is a good place to indulge in some lip-smacking delicacies like Handi meat, tandoori chicken, seekh kebab and paneer butter masala.
+    </string>
+    <string name="title_activity_rawat_mishthan_bhandar">Rawat Mishthan Bhandar</string>
+    <string name="rawat_mishthan_bhandar_overview">This popular eatery has something for everyone. It serves various cuisines like North Indian, Chinese, South Indian, Rajasthani and is a delight for vegetarians. It is also an excellent place to try out the local Rajasthani delicacies, which you must not miss on any trip to jaipur.
+    </string>
+    <string name="title_activity_lakshmi_mishthan_bhandar">Lakshmi Mishthan Bhandar</string>
+    <string name="lakshmi_mishthan_bhandar_overview">Lakshmi Mishthan Bhandar or LMB is the most popular sweet shop and restaurant in Jaipur. It serves a wide range of dishes including many North Indian delights, fast food and mouth-watering desserts. Traditional Indian desserts like paneer ghewar and mawa kachori are the perfect ending to your elaborate meal.
+    </string>
+    <string name="title_activity_spice_court">Spice Court</string>
+    <string name="spice_court_overview">One of the best restaurants in Jaipur, Spice Court suites every palate. It offers everything from Indian to Chinese to Continental. Located in a posh colony, it is known for its culinary delights, ambience and extreme hospitality. The daily cultural evening is a lot of fun with puppet shows and folk dances.
+    </string>
+    <string name="title_activity_om_revolving_restaurant">Om Revolving Restaurant</string>
+    <string name="om_revolving_restaurant_overview">From Rajasthani specialties to many international cuisines, Om Revolving Restaurant is a haven for vegetarians. You can enjoy ghazal singing in the evenings as you take in breathtaking views of the city from atop the tower.
+    </string>
+    <string name="title_activity_pyaaz_kachori">Pyaaz Kachori</string>
+    <string name="pyaaz_kachori_overview">A spicy snack, pyaaz kachori is deep fried dough filled with onions. Every restaurant and all street side eateries in Jaipur serve this popular Rajasthani snack.
+    </string>
+    <string name="title_activity_mirchi_bada">Mirchi Bada</string>
+    <string name="mirchi_bada_overview">Mirchi Bada is a snack which consists of a chilli and potato stuffing. It is often served hot with a tomato, mint or tamarind chutney. You can savour this spicy snack at any restaurant/eatery in Jaipur.
+    </string>
+    <string name="title_activity_ghewar">Ghewar</string>
+    <string name="ghewar_overview">Ghewar is a traditional sweet in Rajasthan and is made of flour, sugar and ghee. It is available in three varieties: plain ghewar, mawa (with dry fruits) ghewar and malai ghewar.
+    </string>
+    <string name="title_activity_amber_fort">Amber Fort</string>
+    <string name="amber_fort_overview">Amber Fort is the iconic attraction of Jaipur and a must on your itinerary. Suraj Pole, the sun facing royal entrance to the fort, is one of the classic blends of Hindu and Mughal architecture. Marvels like Ganesh Pol, Sila Devi Temple, Sheesh Mahal, Magic Flower Fresco and Man Singh Palace await you in the interiors of Amber Fort.
+
+An elephant ride up to Amber Fort is an absolute must. It’s an exhilarating experience to ride up along the cobbled path to the magnificent Fort astride an equally majestic elephant. Watching the Light and Sound Show at the Amber Fort is also a great way to spend an evening in Jaipur.
+    </string>
+    <string name="title_activity_jaigarh_fort">Jaigarh Fort</string>
+    <string name="jaigarh_fort_overview">Jaigarh Fort, which once held the royal treasury and acted as the defence system of Amber, is today a marvellous archetype of walls, watchtowers and bastions. You will be awed by the sight of Jaivan, the largest moving canon in Asia, which was thankfully fired only once. Also see the armoury section (Vijay Garh), and the extravagant palace compound with its museum.
+    </string>
+    <string name="title_activity_nahargarh_fort">Nahargarh Fort</string>
+    <string name="nahargarh_fort_overview">Also called the Tiger Fort, Nahargarh Fort is a cryptic fortress that was used as summer residence by royalty. The most splendid aspect of Nahargarh is the view of the city from the top, especially in the evenings. What’s more, it is a great place to drink and dine and a meal for two costs Rs. 1,500. Visit the temple of Nahar Singh Bhomia, whose spirit once haunted the place and thwarted any construction and Madhavendra Bhawan.
+    </string>
+    <string name="title_activity_hawa_mahal">Hawa Mahal</string>
+    <string name="hawa_mahal_overview">The Palace of the Winds, or Hawa Mahal, was built by Maharaja Sawai Pratap Singh for royal women to view the busy streets of Johari Bazaar, while staying veiled behind the jharokhas. Go atop the five-storey building to take in that view.
+    </string>
+    <string name="title_activity_jantar_mantar_jaipur">Jantar Mantar</string>
+    <string name="jantar_mantar_jaipur_overview">Jantar Mantar, the largest sundial in the world, is a World Heritage Site and definitely a must-not-miss on your trip to Jaipur. A guided tour (30 minutes to 1 hour) is recommended, and would cost Rs. 100.
+    </string>
+    <string name="title_activity_jal_mahal">Jal Mahal</string>
+    <string name="jal_mahal_overview">Literally meaning as ‘Water Palace’, Jal Mahal is located amidst the Man Sagar Lake and was constructed by Sawai Pratap Singh in the year 1799. The beauty of the palace lies in its location as the palace cum hotel is standing in the centre of the lake.
+
+The palace architecture boasts of a typical Rajput and Mughal style which is quite similar to that of Amer Fort. Made in red sandstone, the palace is actually five-storeyed where only the top story is visible (rest are submerged under water).
+
+At the top, there is a garden which has semi-octagonal towers in every corner. Although any time is a good time to visit Jal Mahal but it is during the monsoon season (when the water level rises up) when the views from this palatial hotel are more captivating.
+    </string>
+    <string name="title_activity_surya_mandir">Surya Mandir</string>
+    <string name="surya_mandir_overview">There are quite a few significant temples in Jaipur; Surya Mandir (Sun Temple) is one of them. Located somewhat far away from the main city, the temple is dedicated to the Sun God. Devotees, from far and wide, come to this temple to offer their prayers and revel in the peace and serenity of the temple. The temple’s architecture is magnificent, to say the least, and the carvings on the temple are most delicate and beautiful. From the temple, you can enjoy panoramic views of Jaipur.
+    </string>
+    <string name="title_activity_diwane_khas_hall">Diwan e Khas Hall of Private Audience</string>
+    <string name="diwane_khas_hall_overview">Diwan-e-Khas (Hall of Private Audience) is considered as the most magnificent part of the glorious Amer Fort. The Diwan-e-Khas was the private audience hall of the maharajas who would covene with their advisors and courtesans here. The hall is adorned with marble floors and boasts of the most intricate architectural patterns. The jewels in the crown of the Diwan-e-Khas are the two huge silver containers on display here. The beautiful silver containers are registered with Guinness Book of World Records as the largest silver vessels in the world.
+    </string>
+    <string name="title_activity_ganesh_pol_gateway">Ganesh Pol Gateway</string>
+    <string name="ganesh_pol_gateway_overview">Elegant and regal, the Ganesh Pol Gateway is named after the famous Hindu deity Lord Ganesha. The magnificent gateway is the entrance into the palaces of the maharajas. The gateway leads to three private palaces built around a Mughul-style garden, Charbagh. Tourists from all over the world flock to the Ganesh Pol Gateway to admire the architecture of the gateway – a fusion of Mughal and Rajput architectural styles. Particularly famous are the ornamented archways and the fine latticework.
+    </string>
+    <string name="title_activity_city_palace">City Palace</string>
+    <string name="city_palace_overview">Once the seat of Jaipur’s Maharaja and today a rich museum, the main citadel of Jaipur’s City Palace is a marriage of Mughal and Rajput architecture. The Palace complex is home to historical attractions like Mubarak Mahal, Chandra Mahal, Diwan-I-Khas, Diwan-I-Aam and Maharani Palace.
+    </string>
+    <string name="title_activity_albert_hall_museum">Albert Hall Museum</string>
+    <string name="albert_hall_museum_overview">One of the oldest museums in Jaipur, it is also known as Government Central Museum and was built by Maharaja Sawai Ram Singh II in 1868. Boasting of the Indo-Saracenic architecture, the design of the museum is quiet similar to the Victoria and Albert museum in London.
+
+The museum building includes many archways, towers and courtyards which boast of a rich architecture. Inside the museum, a vast collection of artefacts like miniature paintings, tribal costumes, jewellery, weapons, clay sculptures, metal and ivory ware, ceramics, musical instruments and marble statues are on display.
+
+This museum stores the most famous Persian Golden Carpet which was purchased by Mirza Raja Jai Singh from Persian King Shah Abbas. Even if you are not an art lover, you would love to visit this museum for its interesting collection.
+    </string>
+    <string name="title_activity_jawahar_kala_kendra">Jawahar Kala Kendra</string>
+    <string name="jawahar_kala_kendra_overview">Founded in 1983, Jawahar Kala Kendra is a cultural centre where both classical and folk art forms come together and put up a spectacular show celebrating Jaipur heritage.
+
+From plays like Rangayan, Kadva Sach and I will not cry to mythological tragedies at the performed at the open theatre; get ready for a cultural dose here. Not just theatre, many seminars, workshops, dance performances, music recitals and book publications (on art and culture) are held at this centre.
+
+It also has an auditorium, art-studio, art display room, art galleries, hostel, museums, library and a cafeteria. While you are here, shop for the exclusive local handicrafts and paintings. Also, don’t forget to have the aromatic coffee served at the cafeteria here.
+    </string>
+    <string name="title_activity_diwane_am">Diwan-e-Am</string>
+    <string name="diwane_am_overview">Popularly known as ‘Hall of Public Audience’ and the ‘Diwan Khana’ and built by Maharaja Sawai Pratap Singh in the eighteenth century, Diwan-e-Am was the place where the king would listen to the grievances of his people and take decisions. Currently, it is serving as a museum displaying camelback rides, carriages, carpets from the royal household, miniature paintings and many such things. The beautiful chandeliers are among the marvels of the museum.
+    </string>
+    <string name="title_activity_chokhi_dhani">Chokhi Dhani</string>
+    <string name="chokhi_dhani_overview">The Chokhi Dhani Village Resort is a place where the old and the young alike can have fun! The resort has a rustic rural setting and takes you into the world of Rajputs. It captures the true spirit of Rajasthan and gives you a chance to pamper yourself with a lot of activities and piquant cuisine.
+
+Elephant, camel or bullock cart rides, live performances, puppet shows, folk dances, magic shows and acrobatics – you’ll be entertained by all this and more! Indulgence in the traditional Rajasthani thali here is highly recommended.
+    </string>
+    <string name="title_activity_sadar_bazar">Sadar Bazar</string>
+    <string name="sadar_bazar_overview">Located in the heart of the city near the Agra Cantt Railway station, Taj Mahal and Agra Fort, Sadar Bazaar is one of Agra’s most famous markets . Known for handicraft items, shoes and leather work, this is also a great place to buy marble inlay items such as table tops, coasters, vases, boxes and other souvenirs. A trip to Agra would be incomplete without a stroll through this vibrant market.
+    </string>
+    <string name="title_activity_jkcottage">J.K. Cottage Industries</string>
+    <string name="jkcottage_overview">J.K. Cottage Industries is a great place if you’re looking to buy marble inlay work, sandstone and soapstone items. Some things that you can purchase here are table tops, flower vases, plates, coasters, jars and boxes.
+    </string>
+    <string name="title_activity_marble">Marble</string>
+    <string name="marble_overview">Agra is famous for its exquisite marble products. When in Agra, do make it a point to buy ornate marble souvenirs and gifts such as coasters, flower vases and jewellery boxes, all inlaid with semi-precious stones. The marble in Agra is delicately engraved with pietre dura work and flora motifs. A good place to buy marble in Agra is Marble Cottage located on the Fatehabad Road.
+    </string>
+    <string name="title_activity_leather">Leather</string>
+    <string name="leather_overview">Apart from marble, Agra is also a great place to buy leather. Leather shoes, bags, briefcases and jackets are a must buy here as Agra tanneries supply leather products all across the country. Formal leather shoes for men and traditional Indian juttis for women are particularly popular. Do stop by Sadar Bazaar market where you will find a wide variety of leather goods.
+    </string>
+    <string name="title_activity_carpets_and_rugs">Carpets and Rugs</string>
+    <string name="carpets_and_rugs_overview">Agra is known for its beautiful carpets and rugs, which are exported to countries around the world. Mughal Carpet is a good place to buy some at and offers customers a great variety of beautifully woven Persian carpets and rugs.
+    </string>
+    <string name="title_activity_only_restaurant">Only Restaurant</string>
+    <string name="only_restaurant_overview">One of Agra’s most upscale restaurants, this is the best place to try Mughlai food in the city. The interiors of the restaurant are very appealing, complete with bright tablecloths and bamboo walls, creating the perfect ambience for a relaxed and delicious meal. The menu of Only Restaurant is divided into Mughlai, Afghani, Chinese and Continental cuisine. Apart from being the perfect spot to share a meal with your family, Only Restaurant is also a great place for a business lunch or dinner. Live music every evening only adds to the spirited ambience of the restaurant.
+    </string>
+    <string name="title_activity_dasaprakash">Dasaprakash</string>
+    <string name="dasaprakash_overview">For a taste of South India, visit Dasaprakash for their delicious dosas, idlis, vadas and more. Dasaprakash also has a wide range of delicious ice creams. The restaurant has comfortable seating and private booths to make for a cosy dining experience.
+    </string>
+    <string name="title_activity_joney_place">Joney\'s Place</string>
+    <string name="joney_place_overview">One of Agra’s oldest establishments, Joney’s Place is a hole-in-the-wall restaurant with bright interiors and is usually packed with tourists. One of the best restaurants in the Taj Ganj area, the restaurant does a good Indian style breakfast of puris and cholley. Apart from that, diners can choose from a wide array of vegetarian and non-vegetarian curries, pancakes, macaroni, pasta, sandwiches and even hummus and falafel.
+    </string>
+    <string name="title_activity_the_mandarin">The Mandarin</string>
+    <string name="the_mandarin_overview">The Mandarin is one of the best Chinese restaurants in Agra and offers your pallet a welcome change from Mughlai food. The restaurant offers diners a wide selection of deliciously prepared Chinese dishes including stir fries, honey chicken and chilli garlic noodles. The interiors of The Mandarin are warm and inviting and ensure that you have a pleasant dining experience.
+    </string>
+    <string name="title_activity_shankara_vegis_restaurant">Shankara Vegis Restaurant</string>
+    <string name="shankara_vegis_restaurant_overview">A vegetarian’s delight, Shankara Vegis Restaurant serves a wide range of food items on their menu. Do try their delicious thalis and sweets, while enjoying a stunning view of the Taj Mahal from the restaurant. Apart from the food, you can enjoy a relaxing game of carom or chess at the restaurant as well.
+    </string>
+    <string name="title_activity_petha">Petha</string>
+    <string name="petha_overview">One of Agra’s specialties is petha, which is essentially a soft and delicious sweet made out of white pumpkin. Petha is available all over Agra and the Panchi brand is particularly popular. It also makes for a great gift from Agra for your friends back home.
+    </string>
+    <string name="title_activity_agra_fort">Agra Fort</string>
+    <string name="agra_fort_overview">Spread over a sprawling 94 acres, this massive red sandstone fort lies parallel to the Yamuna River and is situated 2 kilometres northwest of the Taj Mahal. The Agra Fort was originally occupied by Sikarwar Rajputs and was later captured by Lodi rulers of Delhi. In 1526, after the Lodis were defeated in the Battle of Panipat, the victor Emperor Babur took over the fort. After losing the fort briefly to the Suri rulers, it was eventually reclaimed by Akbar who made Agra his capital. Akbar carried out extensive renovation of the dilapidated fort using red sandstone, which took over 4,000 workers and eight years to complete. Agra Fort is known for its majestic gates with the most impressive being the Delhi Gate and Lahore Gate. Another majestic gate is the Elephant Gate, which is situated between two red sandstone towers. Despite the magnificence of these gates, currently only the Amar Singh Gate is open to visitors.
+
+Visitors must note that there is no provision to buy water and other bottled drinks inside the fort and it is advised to carry water along since exploring the fort can prove to be a long and tiring experience.
+    </string>
+    <string name="title_activity_mehtab_bagh">Mehtab Bagh</string>
+    <string name="mehtab_bagh_overview">A garden built on the banks of Yamuna River, Mehtab Bagh was constructed by Emperor Babur and was the last of a series of 11 such gardens built along the east bank of the river. Mehtab Bagh was built as an integral part of the Taj complex as the gardens of the Taj are perfectly aligned with Mehtab Bagh, making it the best place to view the Taj from.
+
+Mehtab Bagh also joins two other gardens to the west known as the Chahar Bagh Padshshi and Second Chahar Bagh Padshahi. Originally, four sandstone towers marked the corners of Mehtab Bagh of which only one at the south east edge remains. The gardens also contain a large pond on its outer edges which reflects the image of the Taj. Apart from water channels that enhance the beauty of the natural scenery, there is also a small tank in the centre of the garden. Visit Mehtab Bagh to enjoy its broad walkways, breezy canopies, beautiful pools, fountains and fruit trees. Mehtab Bagh provides a great photo opportunity for shutterbugs courtesy the views of the Taj Mahal that one can get from here.
+    </string>
+    <string name="title_activity_taj_mahal">Taj Mahal</string>
+    <string name="taj_mahal_overview">Undoubtedly one of Agra’s most popular attractions, the Taj Mahal is not just famous in India but is a monument renowned across the world. Built by Mughal Emperor Shah Jahan for his deceased wife Mumtaz, it is emblematic of the emperor’s deep love for his wife and the grief he experienced at her passing. A landmark monument and a UNESCO World Heritage Site, the Taj Mahal is one of the most admired Mughal masterpieces in the world and is nothing short of poetry crafted in marble. The architect of the Taj Mahal was Ustad Ahmed Lahauri and the design is representative of Indian, Persian and Islamic styles of architecture. It took 21 years for the Taj Mahal to be constructed (from 1632 to 1652) with over 20,000 labourers working night and day.
+
+Described as a “teardrop on the face of eternity” by legendary poet Rabindranath Tagore, the Taj Mahal never fails to impress visitors. Take a relaxed stroll through the grounds or just sit and admire the beautiful, reflective pools and exquisite gardens on the premises. To truly experience its ethereal beauty, visit the Taj Mahal early in the morning when it’s relatively quieter and less crowded or on a full moon night when the white marble glows against the backdrop of the dark, night sky.
+    </string>
+    <string name="title_activity_jama_masjid_agra">Jama Masjid Agra</string>
+    <string name="jama_masjid_agra_overview">Situated opposite the Agra Fort is the grand Jama Masjid, Agra’s most important and largest mosque. Commissioned by Shah Jahan in 1648, the mosque topped with red sandstone domes, is known for its beautiful architecture. Five large arches lead to the main prayer hall inside the Jama Masjid, which are skimmed by a beautiful bolster of sandstone adorned with floral motifs.
+
+Inside the mosque, the mihrab is flanked by graceful strokes of verses from the Quran. Constructed using sandstone and marble, the Jama Masjid has airy courtyards and fountains. Beautiful floral patterns along with Persian inscriptions adorn the marble walls of the Masjid. These inscriptions are in praise of Shah Jahan and his favourite daughter, Jahanara Begum to whom the mosque is dedicated.
+    </string>
+    <string name="title_activity_mariam_tomb">Mariam\'s Tomb</string>
+    <string name="mariam_tomb_overview">Located a kilometre north of Sikandra (a suburb of Agra) is Mariam\'s Tomb, the final resting place of Akbar’s wife and Jahangir’s mother, Marium-uz-Zamani Begum. Mariam’s Tomb, though largely plain, is a large sandstone structure with intricate carvings covering its outer walls. Unlike other Mughal monuments, the tomb has no domes and large chhatris top the corners of the building instead. The architecture of the tomb is a unique combination of Islamic and Hindu styles, which had gained popularity during the rule of Akbar and Jahangir. The interiors of the tomb are segmented by a grid of crisscrossing corridors and like most Mughal tombs, Mariam’s grave lies in a vault below the surface of the tomb.
+    </string>
+    <string name="title_activity_khas_mahal">Khas Mahal</string>
+    <string name="khas_mahal_overview">Flanked by the majestic Yamuna on one side and the Anguri Bagh on the other, Khas Mahal, also known as Aramgah-i-Muqaddar, was a private palace built by Shah Jahan for his daughters Roshnara and Jahanara. Construction of the Khas Mahal began in 1631 and was completed in 1640. The Khas Mahal has heavily adorned ceilings and alcoves in the walls around. They once contained portraits of Mughal rulers. Iron rings visible on the ceilings were where chandeliers once hung. Take a stroll through Khas Mahal and enjoy its beautiful tanks, fountains, marble domes, open courtyards and a large central hall.
+The interiors of the palace are adorned with gold work, mural paintings, ornamental designs and floral designs. The pavilions of the Khas Mahal were constructed using red sandstone and coated with white shell plaster. They contained beautiful golden work and fresco paintings. Gold and blue, the 2 royal colours of the time have been used extensively and some traces of them are still visible in the Khas Mahal.
+    </string>
+    <string name="title_activity_chinika_rauza">Chini Ka Rauza</string>
+    <string name="chinika_rauza_overview">Chini ka Rauza is the tomb of Afzal Khan, a Persian poet who was also a minister in the court of Shah Jahan. This tomb is a landmark of Indo-Persian architecture and is the first building in India to be adorned with glazed tile work. The Chini ka Rauza is a brown, rectangular building, yet its most striking feature remains its tiles or chini in different hues such as turquoise, orange, yellow and green. The inside of the tomb is decorated with now fading paintwork and inscriptions from the Quran.
+    </string>
+    <string name="title_activity_panch_mahal">Panch Mahal</string>
+    <string name="panch_mahal_overview">The Panch Mahal is a five storey building in Fatehpur Sikri. Renowned for its exceptional architecture, it is situated close to the harem or zenana quarters, which is fitting since it functioned as a pleasure palace. Built by Akbar, the architecture of Panch Mahal was inspired by that of a Buddhist temple. Akbar essentially used the Panch Mahal for his relaxation and entertainment.
+
+Entirely columnar, Panch Mahal comprises of four floors constructed in decreasing size. The ground floor of the building is made up of 84 pillars that support the entire structure. Initially, the pillars had a jaali between them, which acted as purdah for the royal ladies as they sat on the terrace enjoying the breeze and the view of Fatehpur Sikri and nearby towns. The views from the topmost pavilion are splendid including that of the fort that lies to its left.
+
+There is also a pool in front of the Panch Mahal, called the Anoop Talao, which was filled with water and acted as a venue for musical performances during Akbar\'s time.
+    </string>
+    <string name="title_activity_anguri_bagh">Anguri Bagh</string>
+    <string name="anguri_bagh_overview">Built by Shah Jahan in 1637, Anguri Bagh is flanked by the Khas Mahal on its east and red sandstone walkways on its other three sides. As the name suggests, Anguri Bagh was known for its rich harvests of grapes and flowers and was also the central area of the zenana. The garden was meant to be a private area of relaxation for the royal ladies.
+
+It is made up of a concrete platform with a fountain in the middle. The garden is divided into various subdivisions with elaborate geometric patterns. To the northeast of Anguri Bagh are structures which were use as the royal bath houses or hamams and were extravagantly decorated with fine wall paintings.
+    </string>
+    <string name="title_activity_sur_sarovar_bird_sanctuary">Sur Sarovar Bird Sanctuary</string>
+    <string name="sur_sarovar_bird_sanctuary_overview">The Sur Sarovar Bird Sanctuary is located 20 kilometres from Agra on the Delhi-Agra Highway (NH2). Spread over an area of 7.97 square kilometres, the sanctuary was declared a National Bird Sanctuary in 1991. Home to the beautiful man-made Keetham Lake, it is a great place for a relaxed outing with your loved ones.
+
+More than 106 species of migratory birds come to Sur Sarovar every year. What\'s more, it is also the habitat for birds such as the little gerb, cattle egret, purple heron, darter, common teal and pintail, among others. The Sur Sarovar Lake is an ideal spot for a picnic with the kids.
+    </string>
+    <string name="title_activity_jahangir_mahal">Jahangir Mahal</string>
+    <string name="jahangir_mahal_overview">One of the most exceptional buildings in the Agra Fort, Jahangir Mahal was essentially a zenana used by the Rajput wives of Akbar. The palace has a gateway that connects to an inner courtyard which sits amidst lavish halls that are decorated with engravings on stone, columns and crosspieces. The courtyard halls are adorned in a Gujarat-Malwa-Rajasthan architecture styles.
+    </string>
+    <string name="title_activity_lower_haramsara">Lower Haramsara</string>
+    <string name="lower_haramsara_overview">Situated in Fatehpur Sikri beside the palace of Jodhaa Bai and opposite Birbal’s house is the Lower Haramsara. The original purpose of the Lower Haramsara is a debatable one as some historians believe that it was used as a stable for horses, elephants and camels while others state that the Lower Haramsara was used to accommodate the maids of the royal harem.
+
+The building is made up of a large rectangular courtyard that is contained on three sides by a dome held up by columns. The entire structure of the Lower Haramsara is made of red sandstone with delicate floral patterns carved on both the interior and exterior. The columns of the Lower Haramsara have a combination of Indian and Islamic designs.
+    </string>
+    <string name="title_activity_mariamuz_zamani_palace">Mariam-uz-Zamani Palace </string>
+    <string name="mariamuz_zamani_palace_overview">Located in Fatehpur Sikri, the Marium-uz-Zamani Palace was the home of Akbar’s wife, Mariam. The palace is renowned for its elaborate and indulgent interiors, for which Akbar is believed to have hired the best workers in India to construct. Mariam-uz-Zamani’s palace is surrounded by beautiful gardens and has rich carvings and floral motifs on the interior and exterior, which adds to its charm. Since Marium-uz-Zamani was a Hindu by birth and a devotee of Lord Krishna, her palace is also adorned with paintings of Lord Krishna.
+    </string>
+
+    <string name="delhi_main">
+        Delhi, India’s capital territory, is a massive
+metropolitan area in the country’s north. In Old Delhi,
+a neighborhood dating to the 1600s, stands the
+imposing Mughal-era Red Fort, a symbol of India, and
+the sprawling Jama Masjid mosque, whose courtyard
+accommodates 25,000 people. Nearby is Chandni
+Chowk, a vibrant bazaar filled with food carts, sweets
+shops and spice stalls.
+    </string>
+
+    <string name="agra_main">
+        Agra is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh.
+        Agra is a major tourist destination because of its many Mughal-era buildings, most notably the Tāj Mahal, Agra Fort and Fatehpur Sikri.
+        Agra is included on the Golden Triangle tourist circuit, along with Delhi and Jaipur; and the Uttar Pradesh Heritage Arc, tourist circuit of UP state, along Lucknow and Varanasi.
+        Agra features a semiarid climate that borders on a humid subtropical climate.
+    </string>
+
+    <string name="jaipur_main">
+        Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color.
+         With gardens, courtyards and museums, part of it is still a royal residence.
+    </string>
+
+    <string name="bangalore_main">
+        Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. The center of India\'s high-tech industry, the city is also known for its parks and nightlife.
+        Kannada is the official language of Bangalore but the city is multi-cultural.
+        Bangalore has a tropical savanna climate with distinct wet and dry seasons. Due to its high elevation, Bangalore usually enjoys a more moderate climate throughout the year.
+    </string>
+    <string name="title_activity_choose_location">Choose Location</string>
+
+    <string name="title_activity_jaisalmer">Jaisalmer</string>
+
+    <string name="no_internet_button">Retry</string>
+    <string name="title_activity_jaisalmer_fort">Jaisalmer Fort</string>
+    <string name="jaisalmer_fort_overview">The most famous landmark in the city, Jaisalmer Fort is one of the largest forts in the world. Built in 1156 AD, the fort is also popularly known as Sonar Qila. Unlike other forts in the country, Jaisalmer Fort is a massive fort with a museum, shops, hotels, houses and eateries housed within. One of the biggest tourist attractions of the city, it is also a delight for photographers.
+    </string>
+    <string name="title_activity_patwon_ki_haveli">Patwon Ki Haveli</string>
+    <string name="patwon_ki_haveli_overview">One of the largest havelis in Rajasthan, Patwon ki Haveli is a cluster of five small havelis. Started by Guman Chand Patwa, a wealthy banker, Patwon ki Haveli took almost 55 years to be built and was completed by his sons.
+
+The haveli is dipped in an enchanting shade of gold and instantly draws your attention to the intricacy of its architecture. It is most famous for its fine wall paintings, beautiful jharokhas (balconies), archways and gateways. A walk through the haveli should not take more than an hour, and this can easily be covered in a city tour.
+</string>
+    <string name="title_activity_salim_singhki_haveli">Salim Singh ki Haveli</string>
+    <string name="salim_singhki_haveli_overview">
+        Salim Singh ki Haveli was built by Salim Singh, who was the formidable prime minister of Jaisalmer when it was the capital of the princely state. Almost 300 years old, the haveli adorns a beautiful, arched roof in the shape of a peacock. A part of the haveli is still occupied. Salim Singh ki Haveli is a must-visit, when in Jaisalmer.
+    </string>
+    <string name="title_activity_jain_temples">Jain Temples</string>
+    <string name="jain_temples_overview">The Jain temples are the most important religious attractions in Jaisalmer. Constructed in the 12th century, the temples are situated within the Jaisalmer Fort campus.
+
+The Jain temples are famous for their intricate carvings and architecture and bear striking similarity to the Dilwara Temples near Mount Abu, Rajasthan. The Jains worship Chandra Prabhuji, a Jain prophet in these temples and there is also an ancient temple dedicated to Laxmi Nath within the fort.
+    </string>
+    <string name="title_activity_nath_malki_haveli">Nath Mal ki Haveli</string>
+    <string name="nath_malki_haveli_overview">Once the residence of Diwan Mohata Nathmal, who was the Prime Minister of Jaisalmer, this grand haveli has an interesting story behind it. It is said that the construction of this structure began from two sides at the same time. With huge life-size elephants carved out of yellow stone and intricately carved exteriors and interiors, this haveli is one you just can’t afford to miss!
+    </string>
+    <string name="title_activity_bada_bagh">Bada Bagh</string>
+    <string name="bada_bagh_overview">Located approximately 6 kilometres off Jaisalmer, Bada Bagh is a popular attraction that is frequented by tourists who come to visit the various chattris or royal cenotaphs which exist here. The Jait Sar Tank and the Jait Bandh are also popular attractions to check out while visiting Bada Bagh.
+    </string>
+    <string name="title_activity_vyas_chhatri">Vyas Chhatri</string>
+    <string name="vyas_chhatri_overview">A beautiful example of Rajasthani architecture, Vyas Chhatri as the name suggests, is dedicated to sage Vyaas, the writer of the epic Mahabharata. This local version of a cenotaph, is made up of delicate carvings that are a sight to behold.
+
+This is also one of the most scenic spots to catch a sunset in the desert.
+    </string>
+    <string name="title_activity_fort_palace_museum">Jaisalmer Fort Palace Museum and Heritage Centre</string>
+    <string name="fort_palace_museum_overview">Situated inside the majestic Jaisalmer Fort, the Jaisalmer Fort Palace Museum and Heritage Centre was an erstwhile royal residence, which was later converted into a heritage centre and museum. The museum houses a great collection of artefacts depicting the rich culture and heritage of Jaisalmer.
+
+It is a must-visit for history buffs and those keen on learning about the heritage of Rajasthan.
+    </string>
+    <string name="title_activity_khaba_fort">Khaba Fort</string>
+    <string name="khaba_fort_overview">Yet another fascinating and slightly spooky fort in Jaisalmer, Khaba Fort, was once inhabited by the Paliwal Brahmins. It was then suddenly deserted for mysterious reasons. The fort still has the ruins of the homes of some 80 families that used to live here more than 200 years ago.
+
+When you visit the fort, you can take a walk around the crumbling structure and then take a tour of the small museum that carries ancient artefacts. Khaba Fort still carries an abandoned feel with very minimal human activity in the area. While you will see very few humans, you would be pleasantly surprised to see a number of peacocks around the fort.
+
+You can combine your visit to Khaba Fort with a trip to Kuldhara Village.
+    </string>
+    <string name="title_activity_maharaja_palace">Maharaja\'s Palace</string>
+    <string name="maharaja_palace_overview">Situated within the Jaisalmer Fort, the Maharaja’s Palace is a small yet fascinating structure with plenty to see.
+
+The intricate details and architectural grandeur of the palace is very impressive. The best part of this five-storeyed structure is the rooftop which offers the most gorgeous view of the city and the desert.
+
+You can also see the marble throne of the Maharaja , other artefacts like the silver coronation throne, the royal bed, local stamps and banknotes and sculptures. Try to go earlier in the day to avoid the tourist rush.
+    </string>
+    <string name="title_activity_trio_restaurant">Trio Restaurant</string>
+    <string name="trio_restaurant_overview">Situated on a rooftop right next to the famous royal residence Mandir Palace, this is an excellent place to sample some delicious multi-cuisine fare. An added bonus is the spectacular view of the Jaisalmer Fort, all lit up at night, from here.
+    </string>
+    <string name="title_activity_chokhi_dhani_jaisalmer">Chokhi Dhani</string>
+    <string name="chokhi_dhani_jaisalmer_overview">If you wish to try the authentic Rajasthani flavour, go to the Chokhi Dhani, an excellent place to try some of the most tasteful preparations from the Rajasthani cuisine.
+
+The entire establishment has a Rajasthani village feel to it, and you can enjoy several recreational activities including magic shows, folk dances, camel and elephant rides before the elaborate meal is served to you.
+    </string>
+    <string name="title_activity_kadhi_pakora">Kadhi Pakora</string>
+    <string name="kadhi_pakora_overview">Although kadhi pakoda is a popular dish in most North Indian households, the authentic Rajasthani kadhi stands a class apart. A delicious preparation made using fried chickpea dumplings cooked in slightly sour yoghurt gravy, this preparation can be savoured with rice as well as rotis.
+    </string>
+    <string name="title_activity_kersangri">Kersangri</string>
+    <string name="kersangri_overview">A favourite with the locals, ker sangri is a vegetable preparation, which is made using desert beans and capers typical to Rajasthan. Slow-cooked with various locally available spices and lots of chilli, ker sangri is best consumed with bajre ki roti.
+    </string>
+    <string name="title_activity_lal_maans">Lal Maans</string>
+    <string name="lal_maans_overview">A fiery mutton preparation, laal maans is made by cooking succulent pieces of red meat in a gravy of yoghurt, spices and lots of red chillies. If you are a non-vegetarian and wish to test your taste buds, this red hot preparation is a must-try!
+    </string>
+    <string name="title_activity_safed_maans">Safed Maans</string>
+    <string name="safed_maans_overview">Safed maans is a delectable curry preparation that is made using boneless lamb, which is blanched and cooked in a white gravy comprising a paste of poppy seeds, almonds and cashewnuts. A rich meat preparation, safed maans is the perfect option for non-vegetarians who wish to indulge in mild, less-spicy preparations.
+    </string>
+    <string name="title_activity_murghesubz">Murgh-e-subz</string>
+    <string name="murgesubz_overview">An extremely wholesome preparation, murgh-e-subz is made by cooking boneless strips of chicken with vegetables and local spices.
+    </string>
+    <string name="title_activity_sadar_bazaar">Sadar Bazaar</string>
+    <string name="sadar_bazaar_overview">This local wholesale and retail market at Jaisalmer has almost everything that you are looking for in Jaisalmer. From handicrafts, paintings, intricately carved wooden items, souvenirs to gems, jewellery, shawls, carpets and hand-embroidered shoes; Sadar Bazaar is a real enchantment for shoppers.
+
+Jaisalmer is also famous for its mirror work, so pick up quilts and ornamental items with beautiful mirror work on them.
+    </string>
+    <string name="title_activity_bhatia_bazaar">Bhatia Bazaar</string>
+    <string name="bhatia_bazaar_overview">A popular marketplace in Jaisalmer, Bhatia Bazaar is the perfect place to pick up souvenirs and knick knacks which you can take back home from Jaisalmer. Apart from cotton and silk embroideries and leather goods, the market also showcases an array of mirror-work items, tablecloths, lamps and wooden items.
+    </string>
+    <string name="title_activity_manak_chowk">Manak Chowk</string>
+    <string name="manak_chowk_overview">A renowned shopping avenue in Jaisalmer, Manak Chowk is famous for its wide variety of items including antiques, leather items, handicrafts, textiles and jewellery. The shops, although small in size, offer plenty of shopping opportunities.
+    </string>
+    <string name="title_activity_seema_gram">Seema Gram</string>
+    <string name="seema_gram_overview">The government-run Khadi Gramodyog Bhawan located in Seema Gram is one of the best places to collect local handicrafts and souvenirs at reasonable prices. You can also pick up some traditional scarves and dupattas around here.
+    </string>
+    <string name="title_activity_pansari_bazaar">Pansari Bazaar</string>
+    <string name="pansari_bazaar_overview">Also referred to as the Villager’s Market, Pansari Bazaar is Jaisalmer’s oldest market, and it goes without saying that why it is one of the best places to explore the Rajasthani culture as it introduces you to the colourful knick-knacks and other ethnic items.
+    </string>
+    <string name="title_activity_bellissimafort">Bellissimafort</string>
+    <string name="bellissimafort_overview">Bellissimafort is a great place to buy local handicrafts made by women from Rajasthan. You can buy a range of Rajasthani crafts made from silk, cotton, copper, golden and silver threads with mirror and beads. They even make for great gift ideas!
+
+Apart from being a brilliant place to shop, the enterprise also encourages women from the villages to make a living on their own.
+    </string>
+    <string name="title_activity_handicrafts">Handicrafts</string>
+    <string name="handicrafts_overview">You can buy some beautiful handicrafts locally produced in Jaisalmer. Some of the popular items that you should look at include colourful textiles with mirror and beads work. You must check out the bed covers, wall hangings, cushion covers, bags, tribal costumes, antique textiles and curtains. \
+    </string>
+    <string name="title_activity_shree_krishna_saree">Shree Krishna Saree</string>
+    <string name="shree_krishna_saree_overview">If you are looking for traditional sarees from Jaisamer, you can stop over at Shree Krishna Saree to pick up any one from the exclusive range of the embroidered fabric. The staff is known to be helpful and you can tell them the price range you are looking at so they can show you the relevant pieces.
+    </string>
+    <string name="title_activity_jewellery_jaisalmer">Jewellery</string>
+    <string name="jewellery_jaisalmer_overview">Jaisalmer is famous for its intricate Rajasthani jewellery. The goldsmiths of Jaisalmer are particularly known for their skills in carving out beautiful pieces of silver jewellery.
+
+You will find stunning pieces of jewellery ranging from necklaces and earnings to bangles and rings.
+    </string>
+    <string name="title_activity_pandara_road">Pandara Road</string>
+    <string name="pandara_road_overview">If you are craving for rich Punjabi food or spicy meat dishes to snack on, food lovers in Delhi are sure to point you towards Pandara Road.
+    Credited as a food paradise (particularly, a hub for butter chicken), the market area of Pandara Road is buzzing with people throughout the year, as they make their way to indulge in sinful treats likebutter chicken,barrah kebabs, chicken tikka,dal makhani and the like. While restaurants offering North Indian and Mughlai cuisines dominate the food scene there, there are also some serving Indian-Chinese and Pan-Asian fare.
+    </string>
+    <string name="title_activity_nehru_planetarium">Nehru Planetarium</string>
+    <string name="nehru_planetarium_overview">If reaching out to stars appears difficult for you, we have a way out… literally! Just reach out to Nehru Planetarium Delhi and you will get a close glimpse of the sun, moon, stars and the planets.
+
+Nehru Planetarium Delhi is one of the five planetariums named after India’s first Prime Minister JawaharLal Nehru. The five Nehru Planetariums are located in Delhi, Mumbai, Pune Bangalore and Allahabad. The one in Allahabad, though, is named the Jawahar Planetarium.
+    </string>
+    <string name="title_activity_leh">Leh</string>
+    <string name="title_activity_leh_market">Leh Market</string>
+    <string name="leh_market_overview">Ambling down the Leh Market, you’ll see shops selling cheap jewellery, clothes including trousers and T-shirts, rucksacks and fanny packs for backpackers, trekking tours, motorbikes on hire and everything you think is needed to survive in such high altitude.
+
+While you’re there, don’t forget to buy prayer wheels, prayer flags, T-shirts with witty messages on them and kitschy turquoise jewellery. Wall-hangings, Buddha heads, paintings, and postcards are also must-buys.
+    </string>
+    <string name="title_activity_hemis_museum_shop">Hemis Museum Shop</string>
+    <string name="hemis_museum_shop_overview">The Hemis Museum shop is a nice place to shop for curios, paintings and postcards, wooden dragon statues and lots of other artefacts. Other monasteries too have their own set of wayside vendors selling all kinds of kitsch. Wonder what you may find up there.
+    </string>
+    <string name="title_activity_tibetan_refugee_market">The Tibetan Refugee Market</string>
+    <string name="tibetan_refugee_market_overview">The Tibetan Refugee Market is a market spread out under a canopy and will safeguard you from the Ladakhi sun while you spend hours shopping and haggling for beautiful artefacts, some different and some like the ones we’ve mentioned before.
+    </string>
+    <string name="title_activity_diskit_curio_shop">Diskit Curio Shop</string>
+    <string name="diskit_curio_shop_overview">The Diskit Curio Shop doesn’t have anything you won\'t find at the Leh market at similar prices. But then, what would you tell people back home if they ask what you got for them from Nubra Valley?
+
+This is the place to buy lucky charms, wooden Tibetan curios, prayer wheels, and prayer flags. And while the laid back lama shopkeeper looks around for your stuff, you can gulp down a bottle of tangy seabuckthorn juice also available at the shop.
+    </string>
+    <string name="title_activity_zansar_arts">Zansar Arts</string>
+    <string name="zansar_arts_overview">Zanskar Arts is a famous and frequented shop, situated in the main marketplace of Leh. This shop sells authentic Pashmina, Cashmere and Silk Shawls, which are recognised for their warmth and soft texture. In addition to shawls and stoles, it deals in exquisite Kashmiri carpets and bedsheets that are known across the globe for their intricate designs.
+
+Visitors can buy exclusive Ladakhi handicrafts and rare Buddhist artifacts from this shop, as souvenirs of their trip to this beautiful region. Precious gemstones, silver ornaments and white gold jewellery are also sold here, which are sure to delight women. Zanskar Arts is one of the few shops in the city, where pure leather bags can be purchased. With the vast variety of goods kept for sale, this place never fails in attracting and impressing visitors looking for specialities of Leh.
+    </string>
+    <string name="title_activity_library_road_vegetable_market">Library Road Vegetable Market</string>
+    <string name="library_road_vegetable_market_overview">Library Road Vegetable Market is a vegetable mandi, located conveniently on Library Road in Leh. This street market speaks a lot about the lifestyle of the locals. The vegetables and fruits sold here give an idea about the eating habits of the people. If you are in Leh, visit the market to get a sneak peek into the lives of the people of the region.
+    </string>
+    <string name="title_activity_tibetan_market">Tibetan Market</string>
+    <string name="tibetan_market_overview">Do handicrafts and antiques attract you? If yes, then Tibetan Market in Leh is an ideal place for you! Indulge in shopping spree at the unconventional market where hordes of stalls offer handicrafts, antiques, and precious and semi-precious gems. The hand-spun rugs, shawls and carpets are among the highlights of this market. Located amidst beautiful surroundings that are characterised by distant snow-capped Himalayas and verdant forests, this marketplace is simply a must-visit!
+    </string>
+    <string name="title_activity_la_pizzeria">La Pizzeria</string>
+    <string name="la_pizzeria_overview">One of the most attractive garden restaurants in Leh and understandably pricy
+    </string>
+    <string name="title_activity_chopsticks">Chopsticks</string>
+    <string name="chopsticks_overview">Chopsticks is another restaurant (pan-Asian) you would love to eat at. The Thai green curry at Chopsticks is the best in the city.</string>
+    <string name="title_activity_gesmo">Gesmo</string>
+    <string name="gesmo_overview">Visit Gesmo for a dig in to tasty cakes and baked products.</string>
+    <string name="title_activity_leh_view_restaurant">Leh View Restaurant</string>
+    <string name="leh_view_restaurant_overview">Dig into delicious Kashmiri food at the Leh View Restaurant. Meaty curries of Kashmir with all the usual food on the menu, this restaurant also offers amazing view from the rooftop.</string>
+    <string name="title_activity_tibetan_kitchen">Tibetan Kitchen</string>
+    <string name="tibetan_kitchen_overview">Tibetan Kitchen at the Hotel Tso-Kar is classy and you may need to book your tables in advance. The menu here is mostly Tibetan with a touch of Indian and Chinese. Alcohol is not served here.
+    </string>
+    <string name="title_activity_lamayuru_restaurant">Lamayuru Restaurant</string>
+    <string name="lamayuru_restaurant_overview">For a good but inexpensive dining experience, we recommend the Lamayuru Restaurant. The restaurant serves great Indian, Chinese and international food.
+    </string>
+    <string name="title_activity_il_fomo">Il Fomo</string>
+    <string name="il_fomo_overview">For cheap beer and cheaper-than-ever pizzas, try out the Il Fomo, another rooftop garden restaurant.
+    </string>
+    <string name="title_activity_sheldon_garden_restaurant">Sheldon Garden Restaurant</string>
+    <string name="sheldon_garden_restaurant_overview">For an amazing candle-light dining experience, we recommend the Sheldon Garden Restaurant. Gorge on succulent chicken malai tandoori and great preparations from Italian, Mexican, and many local dishes.
+    </string>
+    <string name="title_activity_himalaya_cafe">Himalaya Cafe</string>
+    <string name="himalaya_cafe_overview">Talking of rooftop eating experiences, the Himalaya Café, located at the southern end of the main market is a great place to enjoy Chinese and Indian food while admiring the lovely mountain views.
+    </string>
+    <string name="title_activity_momos">Momos</string>
+    <string name="momos_overview">These are steamed (or fried) dumplings made of flour and generally come with fillings of vegetables, chicken, mutton, or pork.
+    </string>
+    <string name="title_activity_thukpas">Thukpas</string>
+    <string name="thukpas_overview">A kind of Chinese noodle soup served in a variety of vegetarian and non-vegetarian preparations.
+    </string>
+    <string name="title_activity_german_bakery">German Bakery</string>
+    <string name="german_bakery_overview">Sample sumptuous cakes and pies from the German Bakery, which is located very close to the Tibetan Refugee Market
+    </string>
+    <string name="title_activity_khambir">Khambir</string>
+    <string name="khambir_overview">Local Ladakhi bread Khambir is a must try for any tourist visiting Leh.</string>
+    <string name="title_activity_leh_shanti_stupa">Leh Shanti Stupa</string>
+    <string name="leh_shanti_stupa_overview">This is a primary attraction. Copies of it have sprouted everywhere in India, but none comes with a backdrop like this one. And of course, the serenity is unparalleled. An epitome of peace, the Shanti Stupa in Leh will fill your senses with wonder and quietude.
+    </string>
+    <string name="title_activity_leh_palace">Leh Palace</string>
+    <string name="leh_palace_overview">If you are in Leh, it\'s really hard to miss the 17th century Leh Palace. It is a 15-minute walk from the Leh Market and has a unique beauty to it. Climb on top of this beautiful palace, partly restored from ruins and enjoy the views of the lovely valleys of Ladakh.
+    </string>
+    <string name="title_activity_spituk_monastery">Spituk Monastery</string>
+    <string name="spituk_monastery_overview">The 11th century Spituk Monastery, situated in Leh town, showcases a beautiful statue of Mata Kali. It was founded by Od-de as a part of the Red Hat sect. Later on, this lovely monastery was taken over by the Yellow Hat sect.
+
+Close to 100 monks reside inside the Spituk Monastery, which is also the centre point of festivities during the Gustor celebrations.
+    </string>
+    <string name="title_activity_thiksey_monastery">Thiksey Monastery</string>
+    <string name="thiksey_monastery_overview">A 15th century monastery, Thiksey has a 49-feet high statue of Maitreya Buddha to its credit. The monastery is spread across a 12-storey complex. It will take a long time for you to explore everything in it, which includes the Assembly Hall, the Tara Temple (Female Buddha), and the Lamokhang Temple, which acts as a repository of Buddhist scriptures.
+    </string>
+    <string name="title_activity_hemis_monastery">Hemis Monastery</string>
+    <string name="hemis_monastery_overview">Dotted with mud stupas, the serpentine road to Hemis Gompa makes for a majestic ascent and renders amazing views of the surrounding valleys. The monastery has a museum and a shop selling curios at a price less than what you’ll find in the Leh Market.
+    </string>
+    <string name="title_activity_naropa_photang_nunnery">Naropa Photang Nunnery</string>
+    <string name="naropa_photang_nunnery_overview">This nunnery is beautiful and just a little ahead of Shey Palace. More than the nunnery, it’s the school adjacent to it that will take your fancy. This is the same school Aamir Khan used as a set in his acclaimed movie 3 Idiots. Surprising as it may seem, this boarding school wholly operates on solar power and uses scientific techniques to preserve heat within the classrooms and the hostel.
+    </string>
+    <string name="title_activity_alchi_monastery">Alchi Monastery</string>
+    <string name="alchi_monastery_overview">The Alchi Monastery was built (hold your breath) between the years 958 and 1055. The murals inside the monastery are incredibly beautiful and depict the lives of both Hindus and Buddhists of a thousand years ago.
+
+The temple is majorly divided into three parts i.e. the Assembly Hall (Dukhang), which lies at the heart of the monastery; the Alchi Sumtseg, which is still well preserved in its original form; and the 12th Century Manjushri Temple, which is dedicated to Goddess Manjushri.
+    </string>
+    <string name="title_activity_lamayuru_monastery">Lamayuru Monastery</string>
+    <string name="lamayuru_monastery_overview">The now little gompa of Lamayuru was once the most important Bompo monastery in the Ladakh region. Not much remains of the original monastery that consisted of five buildings.
+
+Lamayuru plays host to two local (masked-dance) festivals and houses close to 150 monks in its premises. This number was 400 earlier. However, many monks have now moved to surrounding monasteries.
+    </string>
+    <string name="title_activity_pangong_lake">Pangong Lake</string>
+    <string name="pangong_lake_overview">If there is a heaven, we’ve seen it just 35 kilometres off the Indo-China border. Pangong Lake changes colours as the sun passes over it from morning till evening. It\'s long and spreads across India and China.
+
+Pangong Lake\'s quiet, brackish waters offer spectacular reflections of the surrounding mountains. A six-hour drive from Leh, it usually makes for a day excursion.
+
+The lakeside is a great place to enjoy a camp-out with friends and family but make sure you come with all possible supplies for there’s absolutely nothing available on the site. There is a souvenir shop at the entrance of the lake - a great place to buy T-shirts, mugs, caps and hats.
+    </string>
+    <string name="title_activity_gurudwara_pathhar_sahib">Gurudwara PathharSahib</string>
+    <string name="gurudwara_pathhar_sahib_overview">While driving to Sham Valley from Leh, Gurudwara Pathhar Sahib will appear on the way in the middle of nowhere and is worth a short stop. If you’re in time, you might get to relish delicious food from the langar served by military personnel.
+
+Rough in appearance with skin burnt by harsh sunlight, these soldiers serve food to locals and passers-by with a fervour and gratitude you might not find anywhere else.
+    </string>
+    <string name="title_activity_basgo_monastery">Basgo Monastery</string>
+    <string name="basgo_monastery_overview">Set atop a high hillock, the Basgo Monastery is an old Buddhist shrine that stands in ruins now. This monastery was built in 1680 and since then it served as a prominent centre of Ladakh\'s culture and politics. During its glorious days, it was the administrative seat of an influential Namgyal family that ruled the region. A beautiful and imposing statue of Gautam Buddha forms the highlight of this monastery. Colourful mural artworks belonging to the 16th century are preserved in this shrine with utmost care.
+    </string>
+    <string name="movie_connect_basgo_monastery">Basgo Monastery has been the shooting venue of many Bollywood movies and songs. Satrangi Re, the famous song from Shahrukh Khan and Manisha Koirala starrer Dil Se (1998), was filmed at this site. Another popular song that was shot here was White White Face from Tashan (2008). The movie had a well-known star cast, which included Anil Kapoor, Akshay Kumar, Saif Ali Khan and Kareena Kapoor.</string>
+    <string name="title_activity_jama_masjid_leh">Jama Masjid Leh</string>
+    <string name="jama_masjid_leh_overview">Situated in the heart of Leh, Jama Masjid stands a testimony of the religious harmony in the valley. This mosque was built in 1666-67, post an accord between the Mughal emperor Aurangzeb and Ladakh\'s king Deldan Namgyal. According to the agreement, Mughals promised to provide unconditional protection to the kings of Ladakh in lieu of a fixed amount. As a symbol of this peace alliance, the Jama Masjid was built in the town.
+
+This mosque initially had a domed structure, which was replaced a few years ago. The new building features beautiful architecture, with intricate carvings and adornments. A unique thing about this mosque is that only men are allowed to enter its premises.
+    </string>
+    <string name="title_activity_phyang_monastery">Phyang Monastery</string>
+    <string name="phyang_monastery_overview">Phyang Monastery is a prominent place of worship, affiliated to the Red Hat sect of Tibetan Buddhism. This monastery is situated atop the Phyang Hill, where a monastery named Tashi Chozong was built in AD 1515. The establishment of this monastery led to the formation of a monastic community that began Digung teachings under the guidance of Skyoba Jigsten Gonbo. In present times, this shrine is under the administration of Apchi Choski Dolma and the supposed reincarnation of Skyabje Toldan Rinpoche.
+
+The monastery houses several small shrines and royal wall paintings within its premises. This 900 years old museum also forms a part of the monastery compound and is one of its main highlights. The museum has on display a fabulous assortment of idols, colourful thangkas and ancient weapons of warfare. The festival of Gang-Sngon Tsedup is celebrated here with zeal and fervour in the first month of the Tibetan calendar. The monastery also organises ritualistic dance performances on the second and third day of Tibetan calendar\'s sixth month.
+    </string>
+    <string name="title_activity_namgyal_tsemo_monastery">Namgyal Tsemo Monastery</string>
+    <string name="namgyal_tsemo_monastery_overview">Namgyal Tsemo Monastery is a significant Buddhist shrine, perched atop a rocky crag behind the ancient royal palace of Leh. This monastery was built during the early years of the 15th century, somewhere around AD 1430. It attributes its name to King Tashi Namgyal, who established it in order to guard the valley and the Namgyal dynasty against evil spirits by pleasing the guardian deity.
+
+Although the gompa is in ruins now, its brick red colour still manages to make it look impressive. The highlight of this monastery is the three-storey high statue of Maitreya Buddha, carved in gold. Imposing idols of Avalokitesvara and Manjushri are also present within this shrine. Several ancient manuscripts and beautiful paintings are well-preserved here.
+    </string>
+    <string name="title_activity_samstanling_monastery">Samstanling Monastery</string>
+    <string name="samstanling_monastery_overview">Situated in the Sumur village of the picturesque Nubra Valley, the Samstanling Monastery is considered to be an important Buddhist shrine. The founder of this monastery was Lama Tsultim Nima, who established it in 1841. Painted in bright and beautiful shades of red, golden and white, the gompa can be spotted from a distance. The flight of stairs that lead to the shrine is also coloured in red and adorned with brightly coloured traditional prayer flags.
+
+Both the new and old assembly halls of this monastery have eye-catching murals and decorative hangings. These illustrations depict various aspects of Buddhism along with the life of Buddha, Dharamchakra and guardians of the religion. Opposite to the monastery complex lies a guest house, where the monastic head resides. The most notable resident of this compound is a boy, who is regarded as an incarnation of Bakula Rinpoche – a revered Buddhist Lama.
+    </string>
+    <string name="title_activity_sankar_monastery">Sankar Monastery</string>
+    <string name="sankar_monastery_overview">Affiliated with the esteemed Spituk Gompa, the Sankar Monastery is an important place of worship in the valley of Leh. This monastery follows the lineage of Gelug, which is the Yellow Hat sect of Buddhism. Apart from being an important shrine, it is the residence of The Kushok Bakul – the regional head of Gelug. The image of this sect\'s founder Tsong-kha-pa can be seen in the shrine\'s main prayer space. A representation of Avalokitesvara – the revered bodhisattva of compassion is also present in the monastery. In addition, this monastery has a small temple dedicated to Dukar – an important guardian deity of Tibetan Buddhism.
+    </string>
+    <string name="title_activity_magnetic_hill">Magnetic Hill</string>
+    <string name="magnetic_hill_overview">Situated at an elevation of 14000 feet near Leh in Ladakh, Magnetic Hill is a gravity hill that is believed to possess strong magnetic properties. To the east of this hill flows the Sindhu River, which originates from Tibet. It is said that the magnetic force at this place pulls cars uphill and forces aircraft to increase their altitude so as to escape the interference caused by the effect. Although many stories are associated with this place, scientists affirm that all of this is merely a result of an optical illusion formed by the hill.
+    </string>
+    <string name="title_activity_likir_monastery">Likir Monastery</string>
+    <string name="likir_monastery_overview">Likir, literally meaning \'the naga encircled\', is an ancient place of worship that is believed to be guarded by two sacred serpents – Nanda and Taksako. Belonging to the Gelug-pa sect of Tibetan Buddhism, Likir Monastery was established in AD 1065, during the dominion of King Lhachen Gyalpo.
+
+Two assembly halls are present in this shrine, namely New Dukhangs and Old Dukhangs. The former houses an Avalokitesvara statue with 1000 arms and 11 heads, whereas the latter has idols of Bodhisattva, Maitreya, Tsong Khapa, Shakyamuni and Amitabh. In the courtyard, visitors can see a beautiful thangka illustration of the wheel of life and four guardians of directions. A 23-metre high statue of Maitreya Buddha, covered with gold, is also present in the monastery complex.
+
+In addition to the imposing idols of Buddhist deities, the gompa has an impressive collection of ancient manuscripts, costumes, earthen pots and paintings, which speak of the region\'s rich heritage. This monastery is the venue of the annual Dosmochey festival and several religious processions. A school and monastic residence are present within the premises of this ancient monastery
+    </string>
+    <string name="title_activity_nubra_valley">Nubra Valley</string>
+    <string name="nubra_valley_overview">Situated about 150 km to the north of Leh, the Nubra Valley is an isolated region that is a major highlight of the tourism circuit of Ladakh. This valley is located at the confluence of the Shyok and Siachen rivers, where Ladakh is separated from the Karakoram mountain range. To the north of this picturesque valley lies Siachen, which is a beautiful glacier that falls under the disputed territory of Kashmir. The north-western region of this valley is bordered by Sasser and Karakoram passes, the latter formed an integral part of the ancient trade route between India and China. These passes connect the Nubra Valley to Xinjiang – a mountainous Chinese province. The last accessible hamlet of this valley is Panamik, which has an old monastery and several hot springs of sulphur-rich water. The valley with unique topography is a beautiful destination worth exploring during a visit to Leh.
+    </string>
+    <string name="nubra_valley_movie_connect">Nubra Valley gained limelight after several major scenes of the critically-acclaimed and superhit Bollywood movie Bhaag Milkha Bhaag (2013) were shot here. Practice sessions shown in the movie were filmed at this high altitude location. The movie starred Farhan Akhtar as legendary athlete Milkha Singh and Sonam Kapoor as his love interest.
+    </string>
+    <string name="title_activity_zanskar_virgin_valley">Zanskar Virgin Valley</string>
+    <string name="zanskar_virgin_valley_overview">Zanskar the Virgin Valley is one of the most fascinating destinations in the tourism circuit of Leh and Ladakh. It is situated to the southwest of Leh and southeast of Kargil. Regarded as a place with distinct topography and surprising panorama, this semi-desert area falls in the northern territory of the Himalayas. It is flanked by Doda and Kargyag rivers, which are tributaries of the Zanskar River. High mountain passes, huge rocks, sprawling vales, gurgling streams and verdant meadows dominate the landscape of this pristine valley. The rough and less trodden terrains of this region provide a brilliant opportunity for trekking and mountaineering while its gushing rivers serve as perfect venues for white water rafting. Owing to its harsh climatic conditions, this place stays almost inaccessible for most parts of the year. Visitors coming to Zanskar have to drive a mettle road or trek the scenic route that leads to the region.
+    </string>
+    <string name="title_activity_sindhu_ghat">Sindhu Ghat</string>
+    <string name="sindhu_ghat_overview">Sindhu Ghat is a beautiful riverbank, situated near the Shey village in Leh. It is known for its unique and scenic landscape, which is consists of barren mountains, rocky terrains, sparse greenery and the Sindhu River traversing the region. The Sindhu River, known as Indus in English, originates near Mansarovar Lake in Tibet and passes through the distinct terrains of India before reaching its confluence in Pakistan. This river is counted amongst the seven prime sacred rivers of the country. Apart from its religious significance, the river earns fame as a cultural entity and symbol of communal harmony.
+
+This riverbank is the venue of a famous cultural event, which is named Ladakh Singhey Khabab Spring Festival. Celebrated annually, this three-day festival takes place in the month of June, on the occasion of Guru Purnima – the auspicious day of full moon. It is dedicated to the sacred river and is attended by people from surrounding as well as far-flung regions. The festival begins with a ritual that is performed by 50 Buddhist lamas along the riverside. Cultural programmes are organised at the venue that are followed by a short sightseeing trip, campfire and get-together. The third day is marked by a religious ceremony called Sindhu Pujan, during which the river is worshipped.
+
+Apart from being the venue of the famous festival, Sindhu Ghat is an apt place for river rafting. The gurgling waters of this river provide a perfect opportunity for the thrilling activity.
+    </string>
+    <string name="title_activity_gangtok">Gangtok</string>
+
+    <string name="title_activity_mgroad">MG Road</string>
+    <string name="mgroad_overview">MG Road is a great place to buy Tibetan clothes, curios and art. But remember that it\'s a bit expensive to shop at and haggling isn\’t much of an option.
+    </string>
+    <string name="title_activity_directorateof_handicraft">Directorate of Handicraft &amp; Handloom</string>
+    <string name="directorateof_handicraft_overview">The Directorate of Handicraft &amp; Handloom was established in 1957 with the aim of preserving and promoting the art and craft of the people of Gangtok. There is much to see and buy here including hand-carved folding tables (Choktse), hand-loomed carpets with traditional themes, hand-painted masques, shawls, paintings and wooden dolls.
+    </string>
+    <string name="title_activity_lal_bazar">Lal Bazar</string>
+    <string name="lal_bazar_overview">Unlike MG Road, Laal Bazaar is a bargainer\'s paradise. Delve deep inside and you\’re likely to find some hidden treasures. You can pick up Tibetan souvenirs and gifts for people back home at reasonable prices.
+    </string>
+    <string name="title_activity_tangerine">Tangerine</string>
+    <string name="tangerine_overview">Tangerine is one of the best restaurants in Gangtok and serves a variety of cuisines from western snacks to local specialties like the Sikkimese nettle stew, sochhya.
+    </string>
+    <string name="title_activity_cafe_live">Café Live and Loud</string>
+    <string name="cafe_live_overview">Living up to its name, Café Live and Loud features rock bands and DJs on different nights.
+    </string>
+    <string name="title_activity_nine_native_cuisine">Nine Native Cuisine</string>
+    <string name="nine_native_cuisine_overview">This is the perfect place in Gangtok to be at for sampling local Tibetan cuisine. Don\'t forget to try their chicken momos, green salad, hunan chicken and thukpa.
+    </string>
+    <string name="title_activity_bakers_cafe">Baker\'s Cafe</string>
+    <string name="bakers_cafe_overview">Gangtok is unbelievably famous for its baked goods and there is no better place to sample some cakes, pastries and patties than the Baker’s Café.
+    </string>
+    <string name="title_activity_kathi_rolls">Kathi Rolls</string>
+    <string name="kathi_rolls_overview">For getting a taste of Kolkata\’s original kathi rolls, the roll house near the MG Road is the place to be. They serve a variety of them, made of paneer, vegetables, mutton, egg, and chicken. They are wholesome and absolutely delicious.
+    </string>
+    <string name="title_activity_cafe_culture">Café Culture</string>
+    <string name="cafe_culture_overview">Anupama, the owner of Café Culture is a great host and you can absolutely trust her recommendations. Café Culture is a great place to sample local fare as well.
+    </string>
+    <string name="title_activity_tsomgo_lake">Tsomgo Lake</string>
+    <string name="tsomgo_lake_overview">Tsomgo Lake is a two-hour drive from Gangtok on the Gangtok-Nathu La highway. About a kilometre-long and 50 metres deep, Tsomgo Lake is popular as a tourist attraction and a holy site as well. It\’s encircled by lush green landscapes on all sides.
+
+A small Shiva temple, some food stalls and several beautiful plants and flowers can be seen at the Tsomgo Lake. Tourists can also enjoy a yak ride around the lake. On days without sunshine, you\'ll often see the Changu Lake hidden in a veil of mist.
+    </string>
+    <string name="title_activity_do_drul_chorten">Do Drul Chorten</string>
+    <string name="do_drul_chorten_overview">Arguably the most popular stupa (a dome-shaped Buddhist shrine) in Sikkim, Do Drul Chorten was built in 1945 by a Tibetan Buddhist named Trulshik Rinpoche. Surrounded by 108 prayer wheels on which Buddhist mantras have been engraved, monks and tourists swirl the wheels, which is equivalent to completing 108 beads of recital. The gold plated steeple atop the Chorten is what Do Drul is famous for.
+    </string>
+    <string name="title_activity_rumtek_monastery">Rumtek Monastery</string>
+    <string name="rumtek_monastery_overview">About 25 kilometres east of Gangtok and at an altitude of 5,800 feet is Sikkim’s biggest monastery, the Rumtek Monastery. Built in 1740 and rebuilt in 1979, the monastery features a golden stupa containing the relics of the 16th Karmapa, with several other sacred Buddhist artefacts.
+    </string>
+    <string name="title_activity_nathu_la_pass">Nathu La Pass</string>
+    <string name="nathu_la_pass_overview">The views from the second highest mountain pass are absolutely stunning. It\'s wiser to start for the pass at the break of dawn and arrive there by morning. En route you\'ll come across two beautiful sights; the Jhakri Waterfalls and a stunning glacial lake called Changu (Tsomgo Lake).
+    </string>
+    <string name="title_activity_singhik_viewpoint">Singhik Viewpoint</string>
+    <string name="singhik_viewpoint_overview">Singhik is a sleepy little town in Sikkim known for its unmatched natural beauty. For tourists, Singhik is like a paradisiacal retreat from the cacophony of the cities. The Singhik Viewpoint is situated just on the wayside of Singhik and provides stunning views of Kanchenjunga and Mt Siniolchu.
+
+If you move downwards from the Singhik Viewpoint, you can see the confluence of Teesta and Kanaka rivers.
+    </string>
+    <string name="title_activity_banjhakri_falls">Banjhakri Falls</string>
+    <string name="banjhakri_falls_overview">Surrounded by beautiful gardens, the waters of Banjhakri Falls are a treat to the eyes and senses. This is an ideal spot for a delightful picnic with family and friends.
+    </string>
+    <string name="title_activity_tashi_viewpoint">Tashi Viewpoint</string>
+    <string name="tashi_viewpoint_overview">The Tashi Viewpoint is one of the best places to go to with a pair of binoculars, water and some sandwiches. From the Tashi Viewpoint, you get the perfect view of the snow covered peaks of Kanchenjunga.
+
+The Phodong Monastery and the Labrang Monastery are also easily visible from here. The Tashi Viewpoint was commissioned to be built by the late king of Sikkim - Tashi Namgyal.
+    </string>
+    <string name="title_activity_seven_sisters_waterfall">Seven Sisters Waterfall</string>
+    <string name="seven_sisters_waterfall_overview">On the road to North Sikkim on the National Highway, you will come across one of the most picturesque and pristine waterfalls in the region called the Seven Sisters Waterfall.
+
+Located 32 kilometres away from Gangtok, the Seven Sisters Waterfall is an extremely captivating waterfall, which got its name because it is said to fall in seven stages.
+    </string>
+    <string name="title_activity_kabi_longstok">Kabi Lungchok</string>
+    <string name="kabi_longstok_overview">Located 17 kilometres from Gangtok, the historical town of Kabi Lungchok is where the friendship treaty was signed between the Lepcha chief Tekung Tek and the Bhutia chief Khey Bum Sar. A stone pillar was built to mark the location of the place where the treaty was signed. You can also visit the small Buddhist monastery located here.
+    </string>
+    <string name="title_activity_phurchachu_hot_springs">Phurchachu Hot Springs</string>
+    <string name="phurchachu_hot_springs_overview">Situated close to one of the four holy caves in Gangtok, Phurchachu Hot Springs are also considered to be sacred. The holy cave here is known as the Kadosangphu or ‘Cave of the occult fairies’. The water of these springs is rich in Sulphur and is believed to have medicinal value.
+
+The springs overlook the beautiful Rangeet River and are a scenic site frequented by many tourists every year.
+    </string>
+    <string name="title_activity_flower_exhibition_centre">Flower Exhibition Centre</string>
+    <string name="flower_exhibition_centre_overview">A beautiful tropical greenhouse, the Flower Exhibition Centre in Gangtok is a paradise for plant lovers. The location is a beautiful stretch of green and is an absolute treat to the eyes.
+
+This is also the venue of the famous Sikkim Flower Show, usually held around March, when the orchids around the region are in full bloom. People from around the country especially travel to Sikkim around this time to attend this colourful event.
+    </string>
+    <string name="title_activity_tsuk_la_khang_monastery">TsukLaKhang Monastery</string>
+    <string name="tsuk_la_khang_monastery_overview">The Tsuklakhang Royal Chapel and Monastery is a palatial monastery in Gangtok. The imperial chapel of the palace is located in the palace grounds and is the centre for prayers and also has an impressive collection of Buddhist scriptures and literature.
+
+The walls and altars of the monastery are lavishly decorated with murals and images of Buddha, Bodhisattva and other tantrik deities of Buddhism. The Tsukhalang Palace has served as the venue for coronation of kings, royal marriages and victory ceremonies.
+
+The monastery also hosts several Buddhist festivals through the year such as Phang Lhabsol and the Tibetan New Year. If you happen to visit during any of the festivals you must go to see the famous mask dances that are performed by the monks here.
+    </string>
+    <string name="title_activity_saramsa_garden">Saramsa Garden</string>
+    <string name="saramsa_garden_overview">Established in 1922, Saramsa Garden started off as a place meant for cultivating fruit for the local colonial officers. It was later it later that it became famous for growing the medicinal plant ipecacuanha.
+
+But eventually the garden became orchidarium and a public recreational garden for tourists and locals. In 2008, the garden was the venue for the International Floriculture Show.
+
+The garden is located between the slopes of Gangtok and Pakyong, about 14 kilometres away from Gangtok on the Pakyong road.
+    </string>
+    <string name="title_activity_himalayan_zoological_park">Himalayan Zoological Park</string>
+    <string name="himalayan_zoological_park_overview">The Himalayan Zoological Park is a stunning lush forest reserve that overlooks the majestic Khangchendzonga range and is spread across a total area of 230 hectares. The objective of the park is the conservation of rare and endangered species by providing them a safe and natural habitat.
+
+Two of the highlights of the Red Panda which is also the state animal of Sikkim, and the Snow Leopard, the apex predator of the Himalayas, figure prominently.
+
+The landscape of the park varies from rocky surfaces to gentle green slopes with beautiful flora and fauna all around. Apart from the opportunity to see rare animals of the region, the zoological park also offers an incredibly peaceful environment.
+    </string>
+    <string name="title_activity_deer_park">Deer Park</string>
+    <string name="deer_park_overview">Deer Park, also known as Rustamji Park, is like a sanctuary to different species of deer, which are brought from neighbouring states and other parts of Sikkim. You can also spot here other animals such as the Himalayan Bear and Red Pandas.
+
+Apart from the animals, the park also has a statue of Lord Buddha preaching to his followers. It is said that the Deer Park was constructed to mark the reincarnation of Lord Buddha as a musk deer. The park is also a great viewpoint for beautiful vistas of the surrounding hills.
+    </string>
+    <string name="title_activity_shingba_rhododendron_sanctuary">Shingba Rhododendron Sanctuary</string>
+    <string name="shingba_rhododendron_sanctuary_overview">Shingba Rhododendron Sanctuary is a nature park, which houses some 40 different species of rhododendron trees.
+
+Surrounded by scenic mountain ranges and the charming Yumthang Chu (river) flowing through the valley, the sanctuary has a breathtaking landscape.
+
+The sanctuary is at a distance of about 7 hours from Gangtok.
+    </string>
+    <string name="title_activity_mt_katao">Mt Katao</string>
+    <string name="mt_katao_overview">Mt. Katao, which is located near Lachung, offers breathtaking views of the surroundings. It’s a beautiful drive to reach here with waterfalls and other peaks on the way. It’s not very well known amongst tourists and maintains a very quiet and peaceful atmosphere as yet unexplored.
+
+You can go up there for experiencing snow, but do check the weather conditions before you plan a trip.
+    </string>
+    <string name="title_activity_khangchendzonga_biosphere_reserve">KhangchendzongaBiosphereReserve</string>
+    <string name="khangchendzonga_biosphere_reserve_overview">Named after the third highest peak in the world, Mount Khangchendzonga, the biosphere reserve is surrounded by many mountains and glaciers. On its west, is Mount Khangchenjunga, towards the north are Nepal, Talung, tent peaks and the Zemu and Simyo glaciers, and other sides are covered by peaks including Pandim, Narshing and Siniolchu.
+
+One of the highest biosphere reserves in the country, this national park is home to the musk deer, snow leopard and the Himalayan tahr. The flora here includes temperate broadleaf, oaks, fir birch, maple and willow. It also has some 550 bird species including the Tibetan snowcock, blood pheasant, osprey, satyr tragopan, Himalayan griffon, lammergeier, green pigeon, Tibetan snowcock, snow pigeon and Asian emerald cuckoo.
+
+The reserve also has the facility to go trekking from Yuksom, which is about 145 kilometres from Gangtok.
+
+</string>
+    <string name="title_activity_fambong_la_wildlife_sanctuary">FambongLa Wildlife Sanctuary</string>
+    <string name="fambong_la_wildlife_sanctuary_overview">The Fambong La Wildlife Sanctuary is known for its rich variety of flora and fauna. It is home to animals such as binturong or bearcat, civet cat, Himalayan black bear and red panda. The plants in the sanctuary include bamboo, champa, ferns, katus, kimbu, oak, orchids and rhododendrons.
+
+Apart from this, you will also find a large number of birds and butterflies here. A beautiful haven for nature and animal lovers, there is also a wooden site-seeing tower, which will offer beautiful views.</string>
+    <string name="title_activity_tashiding_monastery">Tashiding Monastery</string>
+    <string name="tashiding_monastery_overview">This 17th-century monastery at a height of 6,500 feet, is dedicated to the Nyingmapa order and is situated about 40 kilometres from Geyzing. Perched on a hillock between River Rangeet and River Rathong, you\'ll see many holy scriptures carved on stone plates.
+    </string>
+    <string name="title_activity_hanuman_tok">Hanuman Tok</string>
+    <string name="hanuman_tok_overview">On the road to Nathu La at 7,200 feet, this temple is managed by the Indian Army. The views of Gangtok and the nearby lush hills from here are spectacular.</string>
+    <string name="title_activity_port_blair">Port Blair</string>
+
+    <string name="title_activity_cellular_jail">Cellular Jail</string>
+    <string name="cellular_jail_overview">Built in 1906, Cellular Jail is drenched in colonial and political history. Indian freedom fighters were jailed and gruesomely executed by the British in these confines. What fascinates and disturbs you at the same time is the overall architecture and the extremely small and suffocating jail cells.
+
+The Light and Sound Show in the evening is a must see. The show, started in 1989, offers a glimpse into the Indian freedom struggle in this region. Narrated by the actor Om Puri, there are daily shows in both Hindi and English.
+    </string>
+    <string name="title_activity_mount_harriet">Mount Harriet</string>
+    <string name="mount_harriet_overview">At 1,200 feet, it is the highest point in South Andamans and is 15 kilometres from Port Blair. From Mount Harriet, you can see outstanding views of the Havelock and Ross Islands. We recommend that you hire a guide if you decide to take the nature trail from the Harriet National Park to Madhuban beach.
+    </string>
+    <string name="title_activity_corbyn_cove">Corbyn\'s Cove</string>
+    <string name="corbyn_cove_overview">Seven kilometers from Port Blair is the ideal spot for sunbathing and water sports – Corbyn\’s Cove. Lined with coconut and palm trees, the beach is ideal for basking in the sun on hammocks and enjoying water sports in the cerulean waters.
+    </string>
+    <string name="title_activity_samudrika_marine_museum">Samudrika Marine Museum</string>
+    <string name="samudrika_marine_museum_overview">If seeing more than 350 varieties of marine life doesn\’t fascinate you then Nemo or clown fish surely will. You can see clam shells (their sale is banned), wide varieties of corals and even a complete skeleton of the blue whale at the museum.
+    </string>
+    <string name="title_activity_baratang_island">Baratang Island</string>
+    <string name="baratang_island_overview">A visit to Baratang Island will let you experience the thrill of walking across low-lying bamboo bridges over swamps. You can also take a boat to the limestone caves. Remember the mangroves are said to house crocodiles.
+
+Near the limestone caves are the active mud volcanoes. Baratang Island is also where the Jarawa tribals live. Fascinating as it might be to visit this indigenous tribe, entering their settlement has been banned for some years now.
+
+It would take you about two-and-a-half hours to reach here from Port Blair using a bus and then ferry. It\'s best you leave early in the morning to enjoy a full day here and then return to Port Blair in the evening.
+    </string>
+    <string name="title_activity_japanese_bunker">Japanese Bunker</string>
+    <string name="japanese_bunker_overview">These historical bunkers near Corbyn\’s Cove offer a peek into the intriguing past of the island. They were built during the Japanese occupation in World War II and offer interesting frames for the photographer in you.
+    </string>
+    <string name="title_activity_bird_island">Bird Island</string>
+    <string name="bird_island_overview">Pure white sands, a hammock, humming of birds and the rhythm of the gentle blue waves – this is what awaits you in Port Blair.
+
+The lush green mangroves and sandy beaches invite you for a day of recreation. The variety of birds – emerald dove, red-breasted parakeets, drongos – make it a photographer\'s delight. Watch the sunset from the forest guest house, the orange of the sun reflecting off the many isolated islands in view.
+    </string>
+    <string name="title_activity_aberdeen_bazaar">Aberdeen Bazaar</string>
+    <string name="aberdeen_bazaar_overview">Port Blair isn\’t exactly a shopper\’s paradise. However, trinkets and souvenirs from local materials like shell, bamboo and coconut are available in plenty. You can also buy pearl jewellery, mats made from local padauk wood and driftwood pieces from the Sagarika Government Emporium in Aberdeen Bazaar.
+    </string>
+    <string name="title_activity_sagarika_emporium">Sagarika Emporium</string>
+    <string name="sagarika_emporium_overview">The Government of Andaman established an emporium in Port Blair called \"Sagarika Emporium\" which sells products made by local self employed people. Handicrafts made of Seashells, Jute and Wood are available in this shop. These products are beautiful souvenirs that you can take back home and remember, the shop is a source of livelihood to many poor artists.
+    </string>
+    <string name="title_activity_queen_sea_shell_craft">Queen Sea Shell Craft</string>
+    <string name="queen_sea_shell_craft_overview">Queen Sea Shell Craft, with beautiful souvenirs like bamboo cane crafts, coconut shell lamps and beautiful funky accessories made out of shells earrings makes the tourists fall in love with this place. The marvellous earrings, bracelets and chains that are made of shells and beads are the hot favourite items of young crowd and tourists.
+    </string>
+    <string name="title_activity_mandalay_restaurant">Mandalay Restaurant</string>
+    <string name="mandalay_restaurant_overview">If you want to have the best food in Port Blair and don\’t mind splurging then Mandalay Restaurant is for you. Add to it a romantic seaside setting with gorgeous views of Ross Island and you have a perfect evening ahead of you.
+    </string>
+    <string name="title_activity_annapurna">Annapurna</string>
+    <string name="annapurna_overview">A must visit if you wish to have a scrumptious vegetarian meal in Port Blair. Truly authentic and fresh.
+    </string>
+    <string name="title_activity_andamani_fish_curry">Andamani Fish Curry</string>
+    <string name="andamani_fish_curry_overview">With an abundance of aquatic life, it\’s natural that seafood is popular in the Andamans. The Andamani fish curry is a must-try. The fish is marinated and cooked in a variety of Indian spices and is served with rice.
+    </string>
+
+</resources>

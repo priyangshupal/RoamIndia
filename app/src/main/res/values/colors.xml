@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455555</color>
+    <!--<color name="colorPrimaryDark">#345242</color>-->
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Main Activity Colours-->
+    <color name="main_activity">#6B76AE</color>
+    <color name="sub_main">#9A9BC8</color>
+    <color name="weather_description">#CDCCCC</color>
+    <color name="no_internet">#FFF</color>
+</resources>
+    <!--<color name="main_activity">#1D2D7F</color>-->
+
+    <!--<resources>-->
+    <!--<color name="colorPrimary">#455555</color>-->
+    <!--<color name="colorPrimaryDark">#272424</color>-->
+    <!--<color name="colorAccent">#D81B60</color>-->
+    <!--</resources>-->
